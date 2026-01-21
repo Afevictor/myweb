@@ -2,7 +2,7 @@ import React from 'react';
 import { Navbar } from './Navbar';
 import { Footer } from './Footer';
 import { Outlet } from 'react-router-dom';
-import AIChatAssistant from '../AIChatAssistant';
+import SupportChatbot from '../SupportChatbot';
 
 export const Layout: React.FC = () => {
     return (
@@ -12,7 +12,7 @@ export const Layout: React.FC = () => {
                 <Outlet />
             </main>
             <Footer />
-            <AIChatAssistant />
+            <SupportChatbot />
         </div>
     );
 };
