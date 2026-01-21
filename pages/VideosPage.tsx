@@ -26,9 +26,8 @@ export const VideosPage: React.FC = () => {
                 {loading ? (
                     <div className="text-center py-20 text-slate-400">Loading videos...</div>
                 ) : videos.length === 0 ? (
-                    <div className="text-center py-20">
-                        <p className="text-slate-400 text-lg mb-4">No videos yet.</p>
-                        <p className="text-slate-400 text-sm">Add videos to your Supabase database to see them here.</p>
+                    <div className="text-center py-20 bg-white rounded-3xl border border-dashed border-slate-200">
+                        <p className="text-slate-400 text-lg">Case study videos are currently being processed. Check back soon!</p>
                     </div>
                 ) : (
                     <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-10">
