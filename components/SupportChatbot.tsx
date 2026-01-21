@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { ChatMessage } from '../types';
 import { supabase } from '../lib/supabase';
+import { getIntelligentResponse } from '../services/intelligentChatService';
 
 type ChatState = 'NAME' | 'EMAIL' | 'DETAILS' | 'CLOSED';
 
@@ -13,6 +14,7 @@ const SupportChatbot: React.FC = () => {
     ]);
     const [input, setInput] = useState('');
     const [emailAttempts, setEmailAttempts] = useState(0);
+    const [isTyping, setIsTyping] = useState(false);
     const scrollRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
@@ -41,11 +43,12 @@ const SupportChatbot: React.FC = () => {
         const userMsg: ChatMessage = { role: 'user', text: userText, timestamp: new Date() };
         setMessages(prev => [...prev, userMsg]);
         setInput('');
+        setIsTyping(true);
 
         // Logic transitions
         setTimeout(() => {
             processResponse(userText);
-        }, 600);
+        }, 1000);
     };
 
     const processResponse = (text: string) => {
@@ -64,7 +67,19 @@ const SupportChatbot: React.FC = () => {
         }
     };
 
-    const handleNameInput = (name: string) => {
+    const handleNameInput = async (name: string) => {
+        // Intelligence check: Is this a question instead of a name?
+        if (name.length > 20 || name.includes('?') || name.toLowerCase().includes('how') || name.toLowerCase().includes('what')) {
+            const aiAck = await getIntelligentResponse(name, messages);
+            setMessages(prev => [...prev, {
+                role: 'model',
+                text: `${aiAck || "That's a great question!"} However, I need your name first to properly record your inquiry. What's your name?`,
+                timestamp: new Date()
+            }]);
+            setIsTyping(false);
+            return;
+        }
+
         setUserData(prev => ({ ...prev, name }));
         setMessages(prev => [...prev, {
             role: 'model',
@@ -72,9 +87,10 @@ const SupportChatbot: React.FC = () => {
             timestamp: new Date()
         }]);
         setCurrentState('EMAIL');
+        setIsTyping(false);
     };
 
-    const handleEmailInput = (email: string) => {
+    const handleEmailInput = async (email: string) => {
         if (isValidEmail(email)) {
             setUserData(prev => ({ ...prev, email }));
             setMessages(prev => [...prev, {
@@ -83,7 +99,20 @@ const SupportChatbot: React.FC = () => {
                 timestamp: new Date()
             }]);
             setCurrentState('DETAILS');
+            setIsTyping(false);
         } else {
+            // Check if it's a question instead of an email
+            if (email.includes('?') || email.toLowerCase().includes('tell me')) {
+                const aiAck = await getIntelligentResponse(email, messages);
+                setMessages(prev => [...prev, {
+                    role: 'model',
+                    text: `${aiAck || "I'd love to explain that!"} But first, could you provide a valid email so we can follow up?`,
+                    timestamp: new Date()
+                }]);
+                setIsTyping(false);
+                return;
+            }
+
             const newAttempts = emailAttempts + 1;
             setEmailAttempts(newAttempts);
             if (newAttempts >= 3) {
@@ -100,40 +129,44 @@ const SupportChatbot: React.FC = () => {
                     timestamp: new Date()
                 }]);
             }
+            setIsTyping(false);
         }
     };
 
     const handleDetailsInput = async (details: string) => {
         setUserData(prev => ({ ...prev, details }));
 
+        // Intelligent response generation
+        const aiResponse = await getIntelligentResponse(details, messages);
+
         const complaintKeywords = ["complain", "issue", "problem", "feedback"];
         const isComplaint = complaintKeywords.some(word => details.toLowerCase().includes(word));
 
-        const response = isComplaint
-            ? `Thank you for sharing your complaint, ${userData.name}. I'll redirect this to our team, and they'll respond to you via ${userData.email} shortly. Have a great day! (Chat session closed.)`
-            : `Thank you for sharing, ${userData.name}. Our team will review your request and reach out to you via ${userData.email} soon. Have a great day! (Chat session closed.)`;
+        const response = aiResponse
+            ? `${aiResponse}\n\nOur team will review your request and reach out to you via ${userData.email} soon. Have a great day!`
+            : (isComplaint
+                ? `Thank you for sharing your complaint, ${userData.name}. I'll redirect this to our team, and they'll respond to you via ${userData.email} shortly. Have a great day!`
+                : `Thank you for sharing, ${userData.name}. Our team will review your request and reach out to you via ${userData.email} soon. Have a great day!`);
 
         setMessages(prev => [...prev, {
             role: 'model',
-            text: response,
+            text: `${response} (Chat session closed.)`,
             timestamp: new Date()
         }]);
         setCurrentState('CLOSED');
+        setIsTyping(false);
 
         // Push to Supabase Leads table
         try {
-            const { error } = await supabase.from('leads').insert([
+            await supabase.from('leads').insert([
                 {
                     full_name: userData.name,
                     email: userData.email,
-                    goals: details, // Mapping conversation details to 'goals' field
+                    goals: details,
                 }
             ]);
-
-            if (error) throw error;
-            console.log('Lead pushed to Supabase successfully');
         } catch (err) {
-            console.error('Error pushing lead to Supabase:', err);
+            console.error('Error pushing lead:', err);
         }
     };
 
@@ -170,6 +203,15 @@ const SupportChatbot: React.FC = () => {
                                 </div>
                             </div>
                         ))}
+                        {isTyping && (
+                            <div className="flex justify-start">
+                                <div className="bg-white border border-slate-100 p-3 rounded-xl text-xs text-slate-400 flex gap-1 shadow-sm">
+                                    <span className="animate-bounce">.</span>
+                                    <span className="animate-bounce delay-100">.</span>
+                                    <span className="animate-bounce delay-200">.</span>
+                                </div>
+                            </div>
+                        )}
                     </div>
 
                     <div className="p-4 border-t border-slate-100 bg-white flex gap-2">
