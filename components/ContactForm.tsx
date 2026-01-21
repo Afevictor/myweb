@@ -81,7 +81,7 @@ export const ContactForm: React.FC = () => {
                                 <span>MESSAGE SENT SUCCESSFULLY!</span>
                             ) : (
                                 <>
-                                    <span>REQUEST AI AUDIT</span>
+                                    <span>SEND US A MESSAGE</span>
                                     <span className="text-2xl">→</span>
                                 </>
                             )}

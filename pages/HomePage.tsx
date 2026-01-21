@@ -21,9 +21,9 @@ export const HomePage: React.FC = () => {
             <SectionDivider />
             <LatestNews />
             <SectionDivider />
-            <Testimonials />
-            <SectionDivider />
             <MeetTheFounder />
+            <SectionDivider />
+            <Testimonials />
             <SectionDivider />
             <ContactForm />
         </div>
