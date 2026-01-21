@@ -1,0 +1,8 @@
+{
+  "name": "Verturn AI - Victor Afe Portfolio",
+  "description": "High-end portfolio for Victor Afe. AI Automation Expert at Verturn Technologies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

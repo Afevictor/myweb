@@ -1,0 +1,33 @@
+name: Daily AI News Update
+
+on:
+  schedule:
+    # Runs at 08:00 UTC every day
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Allows manual triggering from GitHub actions tab
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm.cmd install rss-parser @supabase/supabase-js @google/generative-ai dotenv --no-save
+        # Note: Using --no-save to avoid changing package.json in CI
+        # Also using npm.cmd in case the runner environment prefers it, 
+        # but usually 'npm' works on ubuntu-latest. 
+
+      - name: Run news update script
+        env:
+          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/fetch_news.js
