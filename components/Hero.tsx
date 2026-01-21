@@ -1,6 +1,5 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import { CRMS } from '../constants';
 
 export const Hero: React.FC = () => {
     const navigate = useNavigate();
@@ -34,10 +33,6 @@ export const Hero: React.FC = () => {
                         View Case Studies
                     </button>
                 </div>
-            </div>
-
-            <div className="mt-20 flex gap-8 opacity-40 flex-wrap justify-center max-w-4xl mx-auto px-4">
-                {CRMS.map(c => <span key={c} className="text-[10px] md:text-xs font-bold tracking-[0.4em] uppercase text-slate-400">{c}</span>)}
             </div>
         </section>
     );
