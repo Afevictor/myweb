@@ -10,17 +10,8 @@ export const Services: React.FC = () => {
 
     return (
         <section id="services" className="py-32 max-w-7xl mx-auto px-6 relative bg-white rounded-[4rem] shadow-sm z-10 -mt-10 border border-slate-100">
-            <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-20 gap-8">
-                <div className="max-w-2xl">
-                    <h2 className="text-4xl md:text-5xl font-black mb-6 leading-tight text-slate-900 uppercase tracking-tighter">Competencies</h2>
-                    <p className="text-slate-500 text-lg md:text-xl max-w-xl">Intelligent systems designed to eliminate bottlenecks and maximize throughput.</p>
-                </div>
-                <button
-                    onClick={() => navigate('/services')}
-                    className="px-6 py-3 rounded-full border-2 border-slate-900 text-slate-900 font-bold hover:bg-slate-900 hover:text-white transition-all uppercase text-sm tracking-widest whitespace-nowrap"
-                >
-                    Detailed Overview →
-                </button>
+            <div className="mb-12">
+                <span className="text-orange-600 font-bold text-[10px] uppercase tracking-[0.4em]">What we do</span>
             </div>
 
             <div className="grid md:grid-cols-3 lg:grid-cols-4 gap-6">
