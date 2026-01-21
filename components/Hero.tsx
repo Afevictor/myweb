@@ -10,7 +10,7 @@ export const Hero: React.FC = () => {
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-orange-200/20 blur-[100px] rounded-full -z-10"></div>
 
             <div className="max-w-5xl mx-auto text-center relative z-10">
-                <div className="inline-block px-4 py-2 rounded-full bg-white border border-slate-200 text-orange-600 text-[10px] md:text-xs font-bold uppercase tracking-[0.3em] mb-8 shadow-sm">
+                <div className="inline-block px-4 py-2 rounded-full bg-white border border-slate-200 text-orange-600 text-[10px] md:text-xs font-bold uppercase tracking-[0.3em] mb-8 shadow-sm animate-blink">
                     Victor Afe | AI Automation Expert
                 </div>
                 <h1 className="text-5xl md:text-7xl lg:text-8xl font-black mb-8 leading-[1.1] tracking-tighter text-slate-900">
