@@ -9,7 +9,7 @@ export const Services: React.FC = () => {
     const navigate = useNavigate();
 
     return (
-        <section id="services" className="py-32 max-w-7xl mx-auto px-6 relative bg-white rounded-[4rem] shadow-sm z-10 -mt-10 border border-slate-100">
+        <section id="services" className="py-20 max-w-7xl mx-auto px-6 relative bg-white rounded-[4rem] shadow-sm z-10 -mt-10 border border-slate-100">
             <div className="mb-12">
                 <span className="text-orange-600 font-bold text-[10px] uppercase tracking-[0.4em]">What we do</span>
             </div>

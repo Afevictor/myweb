@@ -14,7 +14,7 @@ const SectionDivider = () => (
 
 export const HomePage: React.FC = () => {
     return (
-        <div className="space-y-10">
+        <div>
             <Hero />
             <SectionDivider />
             <Services />

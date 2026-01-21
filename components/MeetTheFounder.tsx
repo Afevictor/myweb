@@ -2,7 +2,7 @@ import React from 'react';
 
 export const MeetTheFounder: React.FC = () => {
     return (
-        <section className="py-32 bg-gradient-to-br from-slate-900 to-slate-800 text-white relative overflow-hidden">
+        <section className="py-24 bg-gradient-to-br from-slate-900 to-slate-800 text-white relative overflow-hidden">
             {/* Background Pattern */}
             <div className="absolute inset-0 opacity-5">
                 <div className="absolute inset-0 bg-grid"></div>

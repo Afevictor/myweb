@@ -33,7 +33,7 @@ export const Testimonials: React.FC = () => {
     }
 
     return (
-        <section id="testimonials" className="py-32 max-w-7xl mx-auto px-6 bg-slate-50">
+        <section id="testimonials" className="py-20 max-w-7xl mx-auto px-6 bg-slate-50">
             <div className="text-center mb-20">
                 <h2 className="text-4xl md:text-5xl font-black mb-6 text-slate-900 tracking-tighter">Client Success</h2>
             </div>

@@ -32,7 +32,7 @@ export const ContactForm: React.FC = () => {
     };
 
     return (
-        <section id="contact" className="py-32 bg-slate-900 text-white relative overflow-hidden">
+        <section id="contact" className="py-24 bg-slate-900 text-white relative overflow-hidden">
             <div className="absolute inset-0 bg-orange-600 opacity-[0.03]"></div>
             <div className="max-w-5xl mx-auto px-6 text-center relative z-10">
                 <h2 className="text-5xl md:text-7xl font-black mb-8 leading-tight tracking-tighter">LET'S BUILD THE <br />FUTURE TOGETHER</h2>
