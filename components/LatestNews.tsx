@@ -37,7 +37,7 @@ export const LatestNews: React.FC = () => {
     if (loading || !latestNews) return null;
 
     return (
-        <section className="bg-orange-600 py-2 overflow-hidden relative">
+        <section className="bg-orange-600 py-2 mb-16 overflow-hidden relative">
             <style>{`
                 @keyframes marquee {
                     0% { transform: translateX(-100%); }
