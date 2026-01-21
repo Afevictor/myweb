@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { ChatMessage } from '../types';
+import { supabase } from '../lib/supabase';
 
 type ChatState = 'NAME' | 'EMAIL' | 'DETAILS' | 'CLOSED';
 
@@ -102,7 +103,7 @@ const SupportChatbot: React.FC = () => {
         }
     };
 
-    const handleDetailsInput = (details: string) => {
+    const handleDetailsInput = async (details: string) => {
         setUserData(prev => ({ ...prev, details }));
 
         const complaintKeywords = ["complain", "issue", "problem", "feedback"];
@@ -119,8 +120,21 @@ const SupportChatbot: React.FC = () => {
         }]);
         setCurrentState('CLOSED');
 
-        // Here you would normally trigger a background function to email the team with the collected data
-        console.log('Lead Collected:', { name: userData.name, email: userData.email, details });
+        // Push to Supabase Leads table
+        try {
+            const { error } = await supabase.from('leads').insert([
+                {
+                    full_name: userData.name,
+                    email: userData.email,
+                    goals: details, // Mapping conversation details to 'goals' field
+                }
+            ]);
+
+            if (error) throw error;
+            console.log('Lead pushed to Supabase successfully');
+        } catch (err) {
+            console.error('Error pushing lead to Supabase:', err);
+        }
     };
 
     const toggleOpen = () => {
