@@ -57,41 +57,97 @@ export const SERVICES: Service[] = [
     description: 'AI-powered email handling that sorts inquiries, drafts responses, and prioritizes urgent messages so you can focus on high-value work.',
     category: 'Automation',
     icon: '📧'
+  },
+  {
+    id: 'omnichannel-ai-bots',
+    title: 'Omnichannel AI Chatbots',
+    description: 'Intelligent AI agents for WhatsApp, Telegram, Slack, and web support. We build conversational bots that handle leads, customer queries, and internal workflows natively on the platforms your customers use.',
+    category: 'Communication',
+    icon: '💬'
   }
 ];
 
 export const PORTFOLIO: PortfolioItem[] = [
   {
     id: '1',
-    title: 'Real Estate Voice Closer',
-    category: 'Voice Agents',
-    description: 'Custom AI voice agent that qualifies leads and books appointments directly into HighLevel.',
-    result: '40% increase in lead conversion',
-    tags: ['GoHighLevel', 'AI Voice', 'Automation']
+    title: 'Enterprise User Lifecycle Automation',
+    category: 'Automation',
+    description: 'Scalable user provisioning system with C# API integration and secure authentication.',
+    result: '60% reduction in manual onboarding',
+    tags: ['C#', 'API', 'Automation'],
+    image_url: 'https://res.cloudinary.com/dygxs8rl5/image/upload/v1772591790/grok-image-4c59a8d5-a7c5-403a-b696-c3b34d69fd03_fs0cgg.jpg'
   },
   {
     id: '2',
-    title: 'Enterprise CRM Sync',
-    category: 'CRM Automation',
-    description: 'Complex data bridge between Salesforce and HubSpot for a global logistics firm.',
-    result: '150+ hours saved monthly',
-    tags: ['Salesforce', 'HubSpot', 'Zapier']
+    title: 'AI-Powered Smart Supply Chain',
+    category: 'AI Integration',
+    description: 'Multi-model AI integration (Gemini/Kritik) for automated document verification and logistics.',
+    result: '45% increase in operational efficiency',
+    tags: ['Gemini 2.0', 'Supply Chain', 'AI'],
+    image_url: 'https://res.cloudinary.com/dygxs8rl5/image/upload/v1772591787/grok-image-c69ab717-9761-49e8-95b4-a2308733a1e0_mtca5w.jpg'
   },
   {
     id: '3',
-    title: 'Content Engine AI',
-    category: 'Video Automation',
-    description: 'Automated video pipeline that turns blog posts into viral social media shorts.',
-    result: '1M+ views in 30 days',
-    tags: ['Python', 'Video AI', 'Social Media']
+    title: 'Advanced RAG Telegram Assistant',
+    category: 'Conversational AI',
+    description: 'Intelligent Telegram bot featuring RAG with Qdrant and real-time web search capabilities.',
+    result: '90% accuracy in query resolution',
+    tags: ['Telegram', 'RAG', 'Qdrant'],
+    image_url: 'https://res.cloudinary.com/dygxs8rl5/image/upload/v1772591784/grok-image-90a61f7e-2244-476b-830b-07947f1e4096_ywywep.jpg'
   },
   {
     id: '4',
-    title: 'AI Red Team Audit',
-    category: 'Security',
-    description: 'Security stress-test and vulnerability assessment for a FinTech startup\'s AI chatbot.',
-    result: 'Identified 12 critical exploits',
-    tags: ['Red Teaming', 'LLM Security', 'FinTech']
+    title: 'Scalable Parallel Data Engine',
+    category: 'Data Engineering',
+    description: 'High-performance architecture for parallel data processing, sync, and validation.',
+    result: '75% faster validation cycles',
+    tags: ['Cloud', 'Data Engineering', 'Scale'],
+    image_url: 'https://res.cloudinary.com/dygxs8rl5/image/upload/v1772591783/grok-image-a5058792-738b-4166-8e19-569874d9a40b_hgd7l0.jpg'
+  },
+  {
+    id: '5',
+    title: 'Intelligent Customer Support OS',
+    category: 'AI Automation',
+    description: 'AI agent orchestration platform with advanced intent mapping and context management.',
+    result: '80% automated resolution rate',
+    tags: ['AI Agents', 'Support', 'Automation'],
+    image_url: 'https://res.cloudinary.com/dygxs8rl5/image/upload/v1772591780/grok-image-0971330b-87f4-4bc9-b0f1-1e208aa34552_strt87.jpg'
+  },
+  {
+    id: '6',
+    title: 'Voice-Powered Workflow Automation',
+    category: 'Voice AI',
+    description: 'Integration of speech-to-text with AI agents to trigger complex automated workflows.',
+    result: '50% reduction in execution time',
+    tags: ['Voice AI', 'Workflow', 'Agents'],
+    image_url: 'https://res.cloudinary.com/dygxs8rl5/image/upload/v1772591779/grok-image-9bf919f1-a9fc-4595-9915-ab20039cdabe_m8swl2.jpg'
+  },
+  {
+    id: '7',
+    title: 'Omnichannel Gemini Integration',
+    category: 'AI Integration',
+    description: 'Real-time chat interface powered by Google Gemini for complex API requests.',
+    result: '95% response latency reduction',
+    tags: ['Gemini', 'API', 'Real-time'],
+    image_url: 'https://res.cloudinary.com/dygxs8rl5/image/upload/v1772591776/grok-image-7e788336-d0ba-4e2d-a2da-93f2e564c22e_rspe87.jpg'
+  },
+  {
+    id: '8',
+    title: 'Automated Employee Onboarding',
+    category: 'Automation',
+    description: 'End-to-end automation across Google Workspace, Jira, and Slack platforms.',
+    result: 'Instant cross-platform provisioning',
+    tags: ['Slack', 'Jira', 'HR Tech'],
+    image_url: 'https://res.cloudinary.com/dygxs8rl5/image/upload/v1772591775/grok-image-3c20bbf7-cadf-4628-948a-12b5c3e9691f_itan38.jpg'
+  },
+  {
+    id: '9',
+    title: 'Autonomous Agent Tooling',
+    category: 'AI Agents',
+    description: 'Deploying agents with web search and memory for complex multi-step task execution.',
+    result: 'Multi-step task automation',
+    tags: ['Agents', 'SerpAPI', 'Memory'],
+    image_url: 'https://res.cloudinary.com/dygxs8rl5/image/upload/v1772591774/grok-image-a1b4d2e7-7acf-4f57-96a1-2d77aaea4705_aribnt.jpg'
   }
 ];
 
@@ -116,29 +172,7 @@ export const TESTIMONIALS: Testimonial[] = [
   }
 ];
 
-export const VIDEOS = [
-  {
-    id: 'v1',
-    title: 'The Future of AI Voice Agents',
-    description: 'Watch a live demo of our proprietary voice synthesis technology closing leads.',
-    duration: '04:20',
-    thumbnail: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=800'
-  },
-  {
-    id: 'v2',
-    title: 'Salesforce & AI Integration',
-    description: 'Deep dive into how we bridge enterprise CRMs with autonomous agents.',
-    duration: '06:15',
-    thumbnail: 'https://images.unsplash.com/photo-1551288049-bbbda536339a?auto=format&fit=crop&q=80&w=800'
-  },
-  {
-    id: 'v3',
-    title: 'AI Red Teaming Secrets',
-    description: 'Learn how we stress-test models to prevent prompt injection and data leaks.',
-    duration: '05:45',
-    thumbnail: 'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=800'
-  }
-];
+export const VIDEOS: any[] = [];
 
 export const SERVICE_DETAILS: Record<string, { fullTitle: string; content: string; keyBenefits: string[]; image: string; imageDesc: string; cta: string }> = {
   'ai-automation-architecture': {
@@ -244,6 +278,19 @@ export const SERVICE_DETAILS: Record<string, { fullTitle: string; content: strin
     image: 'https://images.unsplash.com/photo-1557200134-90327ee9fafa?auto=format&fit=crop&q=80&w=1200',
     imageDesc: 'A clean, minimalist workspace symbolizing the clarity provided by a zero-inbox system.',
     cta: 'FREE UP YOUR INBOX'
+  },
+  'omnichannel-ai-bots': {
+    fullTitle: 'Omnichannel AI Chatbots (WhatsApp, Telegram, Slack)',
+    content: 'Reach your customers where they already are. We build intelligent AI agents that live inside WhatsApp, Telegram, and Slack. These bots don\'t just chat; they qualify leads, book meetings, and sync data to your CRM in real-time.',
+    keyBenefits: [
+      'Native integration with WhatsApp, Telegram, and Slack.',
+      '24/7 automated customer support and lead capture.',
+      'Real-time CRM syncing and internal alerts.',
+      'Custom persona-driven conversational design.'
+    ],
+    image: '/images/omnichannel_chatbot_icon.png',
+    imageDesc: 'An interconnected network of chat bubbles representing WhatsApp, Telegram, and Slack integration.',
+    cta: 'BUILD YOUR CHAT BOT NOW'
   }
 };
 
@@ -251,9 +298,9 @@ export const CRMS = ['Salesforce', 'HighLevel', 'HubSpot', 'Zoho CRM', 'Pebble',
 
 export const SYSTEM_INSTRUCTION = `
 You are the personal AI Assistant for Victor Afe, the AI Automation Expert at Verturn Technologies.
-Victor is an expert in AI automation, appointment booking bots, voice agents, red teaming, and CRM automation.
+Victor is an expert in AI automation, appointment booking bots, voice agents, red teaming, omnichannel AI chatbots (WhatsApp, Telegram, Slack), and CRM automation.
 Your goal is to answer questions about Victor's services, his expertise, and help visitors understand how he can help their business.
-Key services: AI Automation, Voice Agents, CRM (Salesforce/HubSpot), AI Security, Training.
+Key services: AI Automation, Voice Agents, Omnichannel Chatbots, CRM (Salesforce/HubSpot), AI Security, Training.
 Tone: Professional, high-tech, confident, yet helpful.
 If a user asks to book a meeting, direct them to the "Book a Consultation" section.
 `;

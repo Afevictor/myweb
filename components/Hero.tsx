@@ -35,7 +35,7 @@ export const Hero: React.FC = () => {
                     SCALE WITH <br /> <span className="text-orange-600">AI PRECISION.</span>
                 </h1>
                 <p className="text-lg md:text-2xl text-slate-500 mb-12 max-w-3xl mx-auto leading-relaxed px-4">
-                    Engineering bespoke automation, high-performance voice agents, and deep CRM logic. We don't just innovate; we build your unfair advantage.
+                    We help companies unlock their full potential by engineering bespoke automation solutions, high-performance AI agent. Using the magic of n8n and other cutting-edge automation tools, I build systems that drive efficiency, productivity, and growth.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-5 justify-center">
                     <button

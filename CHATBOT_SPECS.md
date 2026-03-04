@@ -40,6 +40,7 @@ This document outlines the logic, behavior, and flow for the Verturn AI Support 
 - **Deep CRM & Sales Ops**: Specialized in **Salesforce, HubSpot, GoHighLevel, and Zoho**. We automate lead scoring and multi-channel follow-ups.
 - **AI Security (Red Teaming)**: We stress-test LLM deployments to prevent prompt injection and data leaks using **LlamaGuard** and adversarial hacking techniques.
 - **Neural Search & RAG**: We build "Private Enterprise Brains" using **Pinecone, Supabase, and Weaviate** to index company data for hallucination-free retrieval.
+- **Omnichannel AI Chatbots**: We develop intelligent agents for **WhatsApp, Telegram, Slack, and Discord**. These bots qualify leads, handle 24/7 support, and sync directly with CRMs like Salesforce and HubSpot.
 
 ### 2. Technology Stack
 - **Orchestration**: n8n, Zapier, Make.com.

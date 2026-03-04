@@ -13,6 +13,7 @@ export interface PortfolioItem {
   description: string;
   result: string;
   tags: string[];
+  image_url?: string;
 }
 
 export interface Testimonial {

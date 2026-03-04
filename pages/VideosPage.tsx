@@ -1,20 +1,14 @@
 import React, { useEffect, useState } from 'react';
-import { supabase } from '../lib/supabase';
+import { VIDEOS } from '../constants';
 
 export const VideosPage: React.FC = () => {
-    const [videos, setVideos] = useState<any[]>([]);
-    const [loading, setLoading] = useState(true);
+    const [videos, setVideos] = useState<any[]>(VIDEOS);
+    const [loading, setLoading] = useState(false);
 
     useEffect(() => {
-        const fetchVideos = async () => {
-            setLoading(true);
-            const { data, error } = await supabase.from('videos').select('*').order('created_at', { ascending: false });
-            if (!error && data) {
-                setVideos(data);
-            }
-            setLoading(false);
-        };
-        fetchVideos();
+        // Now using static VIDEOS constant
+        setVideos(VIDEOS);
+        setLoading(false);
     }, []);
 
     return (

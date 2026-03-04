@@ -1,21 +1,16 @@
 import React, { useEffect, useState } from 'react';
-import { supabase } from '../lib/supabase';
+import { PORTFOLIO } from '../constants';
 
 export const PortfolioPage: React.FC = () => {
-    const [projects, setProjects] = useState<any[]>([]);
-    const [loading, setLoading] = useState(true);
+    const [projects, setProjects] = useState<any[]>(PORTFOLIO);
+    const [loading, setLoading] = useState(false);
     const [selectedImage, setSelectedImage] = useState<{ url: string; title: string } | null>(null);
 
+    // Static data used, no need for Supabase fetch for now
     useEffect(() => {
-        const fetchProjects = async () => {
-            setLoading(true);
-            const { data, error } = await supabase.from('portfolio').select('*').order('created_at', { ascending: false });
-            if (!error && data) {
-                setProjects(data);
-            }
-            setLoading(false);
-        };
-        fetchProjects();
+        // Keeping the structure in case of future dynamic needs
+        setProjects(PORTFOLIO);
+        setLoading(false);
     }, []);
 
     const openImageModal = (imageUrl: string, title: string) => {

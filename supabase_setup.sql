@@ -51,6 +51,16 @@ create table public.testimonials (
   constraint testimonials_pkey primary key (id)
 ) tablespace pg_default;
 
+-- 5. LEADS TABLE
+create table public.leads (
+  id uuid not null default gen_random_uuid (),
+  created_at timestamp with time zone not null default timezone ('utc'::text, now()),
+  full_name text,
+  email text,
+  goals text,
+  constraint leads_pkey primary key (id)
+) tablespace pg_default;
+
 -- ENABLE ROW LEVEL SECURITY (RLS)
 -- This ensures that by default, no one can Access data unless we say so.
 alter table public.news enable row level security;
