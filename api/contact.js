@@ -32,14 +32,17 @@ export default async function handler(req, res) {
             })
         });
 
-        // --- 2. PUSH TO AIRTABLE (Optional) ---
+        const mailResult = await mailResponse.json();
+
+        // --- 2. PUSH TO AIRTABLE (Non-blocking) ---
         const AIRTABLE_PAT = process.env.AIRTABLE_PAT;
         const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID;
-        const AIRTABLE_TABLE_NAME = process.env.AIRTABLE_TABLE_NAME || 'Leads';
+        // Prefer Table ID if it looks like one (e.g. starts with 'tbl')
+        const AIRTABLE_TABLE = process.env.AIRTABLE_TABLE_ID || process.env.AIRTABLE_TABLE_NAME || 'Leads';
 
         if (AIRTABLE_PAT && AIRTABLE_BASE_ID) {
             try {
-                await fetch(`https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/${AIRTABLE_TABLE_NAME}`, {
+                const atResponse = await fetch(`https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/${encodeURIComponent(AIRTABLE_TABLE)}`, {
                     method: 'POST',
                     headers: {
                         Authorization: `Bearer ${AIRTABLE_PAT}`,
@@ -55,21 +58,31 @@ export default async function handler(req, res) {
                         }
                     })
                 });
-                console.log('Successfully pushed to Airtable');
-            } catch (atError) {
-                console.error('Airtable Sync Error:', atError);
+
+                if (!atResponse.ok) {
+                    const atError = await atResponse.json();
+                    console.error('Airtable Sync Error:', atError);
+                } else {
+                    console.log('Successfully pushed to Airtable');
+                }
+            } catch (err) {
+                console.error('Airtable Fetch Exception:', err);
             }
         }
 
-        const mailResult = await mailResponse.json();
-
-        if (mailResult.success) {
+        // Return success based on Mail status
+        if (mailResult && mailResult.success) {
             return res.status(200).json({ message: 'Success' });
         } else {
-            return res.status(500).json({ message: 'Error from mail service', details: mailResult });
+            console.error('Mail Service Failed:', mailResult);
+            return res.status(500).json({
+                message: 'Error from mail service',
+                status: mailResponse.status,
+                details: mailResult
+            });
         }
     } catch (err) {
-        console.error('Contact API Error:', err);
-        return res.status(500).json({ message: 'Internal Server Error' });
+        console.error('Contact API Internal Error:', err);
+        return res.status(500).json({ message: 'Internal Server Error', error: err.message });
     }
 }
