@@ -1,6 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { ChatMessage } from '../types';
-import { supabase } from '../lib/supabase';
 import { getIntelligentResponse } from '../services/intelligentChatService';
 
 type ChatState = 'NAME' | 'EMAIL' | 'DETAILS' | 'CLOSED';
@@ -156,17 +155,20 @@ const SupportChatbot: React.FC = () => {
         setCurrentState('CLOSED');
         setIsTyping(false);
 
-        // Push to Supabase Leads table
+        // Push to Contact API
         try {
-            await supabase.from('leads').insert([
-                {
-                    full_name: userData.name,
+            await fetch('/api/contact', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    fullName: userData.name,
                     email: userData.email,
                     goals: details,
-                }
-            ]);
+                    source: 'Support Chatbot'
+                })
+            });
         } catch (err) {
-            console.error('Error pushing lead:', err);
+            console.error('Error pushing lead to API:', err);
         }
     };
 

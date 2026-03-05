@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { supabase } from '../lib/supabase';
 
 export const ContactForm: React.FC = () => {
     const [formState, setFormState] = useState({ fullName: '', email: '', goals: '' });
@@ -11,23 +10,30 @@ export const ContactForm: React.FC = () => {
         if (!formState.fullName || !formState.email || !formState.goals) return;
 
         setIsSubmitting(true);
-        const { error } = await supabase.from('leads').insert([
-            {
-                full_name: formState.fullName,
-                email: formState.email,
-                goals: formState.goals
+        try {
+            const response = await fetch('/api/contact', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    fullName: formState.fullName,
+                    email: formState.email,
+                    goals: formState.goals,
+                    source: 'Homepage Contact Form'
+                })
+            });
+
+            if (response.ok) {
+                setSubmitStatus('success');
+                setFormState({ fullName: '', email: '', goals: '' });
+                setTimeout(() => setSubmitStatus('idle'), 5000);
+            } else {
+                setSubmitStatus('error');
             }
-        ]);
-
-        setIsSubmitting(false);
-
-        if (error) {
-            console.error('Error submitting form:', error);
+        } catch (err) {
+            console.error('Error submitting form:', err);
             setSubmitStatus('error');
-        } else {
-            setSubmitStatus('success');
-            setFormState({ fullName: '', email: '', goals: '' });
-            setTimeout(() => setSubmitStatus('idle'), 5000);
+        } finally {
+            setIsSubmitting(false);
         }
     };
 
