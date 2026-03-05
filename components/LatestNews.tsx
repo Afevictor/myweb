@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import newsData from '../data/news.json';
+import newsData from '../src/data/news.json';
 
 export const LatestNews: React.FC = () => {
     const latestNews = newsData[0];

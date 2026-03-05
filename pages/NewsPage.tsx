@@ -1,5 +1,6 @@
 import React from 'react';
-import newsData from '../data/news.json';
+import { Link } from 'react-router-dom';
+import newsData from '../src/data/news.json';
 
 interface NewsItem {
     id: string;
