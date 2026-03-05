@@ -14,7 +14,8 @@ export default async function handler(req, res) {
     const WEB3FORMS_ACCESS_KEY = process.env.WEB3FORMS_ACCESS_KEY || 'YOUR_ACCESS_KEY_HERE';
 
     try {
-        const response = await fetch('https://api.web3forms.com/submit', {
+        // --- 1. SEND EMAIL via Web3Forms ---
+        const mailResponse = await fetch('https://api.web3forms.com/submit', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -31,12 +32,41 @@ export default async function handler(req, res) {
             })
         });
 
-        const result = await response.json();
+        // --- 2. PUSH TO AIRTABLE (Optional) ---
+        const AIRTABLE_PAT = process.env.AIRTABLE_PAT;
+        const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID;
+        const AIRTABLE_TABLE_NAME = process.env.AIRTABLE_TABLE_NAME || 'Leads';
 
-        if (result.success) {
+        if (AIRTABLE_PAT && AIRTABLE_BASE_ID) {
+            try {
+                await fetch(`https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/${AIRTABLE_TABLE_NAME}`, {
+                    method: 'POST',
+                    headers: {
+                        Authorization: `Bearer ${AIRTABLE_PAT}`,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        fields: {
+                            'Name': fullName,
+                            'Email': email,
+                            'Goals': goals,
+                            'Source': source || 'Contact Form',
+                            'Date': new Date().toISOString()
+                        }
+                    })
+                });
+                console.log('Successfully pushed to Airtable');
+            } catch (atError) {
+                console.error('Airtable Sync Error:', atError);
+            }
+        }
+
+        const mailResult = await mailResponse.json();
+
+        if (mailResult.success) {
             return res.status(200).json({ message: 'Success' });
         } else {
-            return res.status(500).json({ message: 'Error from mail service', details: result });
+            return res.status(500).json({ message: 'Error from mail service', details: mailResult });
         }
     } catch (err) {
         console.error('Contact API Error:', err);
