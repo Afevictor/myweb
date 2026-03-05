@@ -14,30 +14,51 @@ export default async function handler(req, res) {
     const WEB3FORMS_ACCESS_KEY = process.env.WEB3FORMS_ACCESS_KEY || 'YOUR_ACCESS_KEY_HERE';
 
     try {
-        // --- 1. SEND EMAIL via Web3Forms ---
-        const mailResponse = await fetch('https://api.web3forms.com/submit', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                'Accept': 'application/json'
-            },
-            body: JSON.stringify({
-                access_key: WEB3FORMS_ACCESS_KEY,
-                name: fullName,
-                email: email,
-                message: goals,
-                subject: `🚀 New Lead from Verturn AI: ${fullName} (${source || 'Contact Form'})`,
-                from_name: 'Verturn AI Notification',
-                replyto: email,
-            })
-        });
+        let emailSuccess = false;
+        let emailDetails = null;
 
-        const mailResult = await mailResponse.json();
+        // --- 1. SEND EMAIL via Web3Forms (if configured) ---
+        if (WEB3FORMS_ACCESS_KEY && WEB3FORMS_ACCESS_KEY !== 'YOUR_ACCESS_KEY_HERE') {
+            try {
+                const mailResponse = await fetch('https://api.web3forms.com/submit', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Accept': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        access_key: WEB3FORMS_ACCESS_KEY,
+                        name: fullName,
+                        email: email,
+                        message: goals,
+                        subject: `🚀 New Lead from Verturn AI: ${fullName} (${source || 'Contact Form'})`,
+                        from_name: 'Verturn AI Notification',
+                        replyto: email,
+                    })
+                });
 
-        // --- 2. PUSH TO AIRTABLE (Non-blocking) ---
+                const mailText = await mailResponse.text();
+                try {
+                    emailDetails = JSON.parse(mailText);
+                    emailSuccess = emailDetails.success === true;
+                } catch (e) {
+                    console.error('Mail Service non-JSON response:', mailText.substring(0, 200));
+                    emailDetails = { error: 'Invalid JSON response from mail service' };
+                }
+            } catch (mailErr) {
+                console.error('Mail Catch Error:', mailErr);
+                emailDetails = { error: mailErr.message };
+            }
+        } else {
+            emailDetails = { skipped: 'No Web3Forms key provided.' };
+        }
+
+        // --- 2. PUSH TO AIRTABLE ---
+        let airtableSuccess = false;
+        let airtableDetails = null;
+
         const AIRTABLE_PAT = process.env.AIRTABLE_PAT;
         const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID;
-        // Prefer Table ID if it looks like one (e.g. starts with 'tbl')
         const AIRTABLE_TABLE = process.env.AIRTABLE_TABLE_ID || process.env.AIRTABLE_TABLE_NAME || 'Leads';
 
         if (AIRTABLE_PAT && AIRTABLE_BASE_ID) {
@@ -59,26 +80,42 @@ export default async function handler(req, res) {
                     })
                 });
 
-                if (!atResponse.ok) {
-                    const atError = await atResponse.json();
-                    console.error('Airtable Sync Error:', atError);
-                } else {
-                    console.log('Successfully pushed to Airtable');
+                const atText = await atResponse.text();
+                try {
+                    airtableDetails = JSON.parse(atText);
+                    airtableSuccess = atResponse.ok;
+                    if (!atResponse.ok) {
+                        console.error('Airtable Sync Error:', airtableDetails);
+                    } else {
+                        console.log('Successfully pushed to Airtable');
+                    }
+                } catch (e) {
+                    console.error('Airtable non-JSON response:', atText.substring(0, 200));
+                    airtableDetails = { error: 'Invalid JSON from Airtable' };
                 }
             } catch (err) {
                 console.error('Airtable Fetch Exception:', err);
+                airtableDetails = { error: err.message };
             }
+        } else {
+            airtableDetails = { skipped: 'Airtable credentials not fully provided.' };
         }
 
-        // Return success based on Mail status
-        if (mailResult && mailResult.success) {
-            return res.status(200).json({ message: 'Success' });
+        // Return unified status response
+        if (airtableSuccess || emailSuccess) {
+            return res.status(200).json({
+                message: 'Success',
+                airtable: airtableSuccess,
+                email: emailSuccess,
+                details: { airtable: airtableDetails, email: emailDetails }
+            });
         } else {
-            console.error('Mail Service Failed:', mailResult);
+            console.error('Both Services Failed or were Skipped.');
             return res.status(500).json({
-                message: 'Error from mail service',
-                status: mailResponse.status,
-                details: mailResult
+                message: 'Error processing lead',
+                airtable: airtableSuccess,
+                email: emailSuccess,
+                details: { airtable: airtableDetails, email: emailDetails }
             });
         }
     } catch (err) {
