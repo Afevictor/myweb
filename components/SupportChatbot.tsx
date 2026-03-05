@@ -8,6 +8,15 @@ const SupportChatbot: React.FC = () => {
     const [isOpen, setIsOpen] = useState(false);
     const [currentState, setCurrentState] = useState<ChatState>('NAME');
     const [userData, setUserData] = useState({ name: '', email: '', details: '' });
+    // Ref always holds the latest userData to avoid stale closure issues in async handlers
+    const userDataRef = useRef({ name: '', email: '', details: '' });
+
+    // Keep ref in sync with state
+    const updateUserData = (updates: Partial<{ name: string; email: string; details: string }>) => {
+        const next = { ...userDataRef.current, ...updates };
+        userDataRef.current = next;
+        setUserData(next);
+    };
     const [messages, setMessages] = useState<ChatMessage[]>([
         { role: 'model', text: "Hello! Welcome to our support chatbot. May I have your name please?", timestamp: new Date() }
     ]);
@@ -28,6 +37,7 @@ const SupportChatbot: React.FC = () => {
 
     const resetChat = () => {
         setCurrentState('NAME');
+        userDataRef.current = { name: '', email: '', details: '' };
         setUserData({ name: '', email: '', details: '' });
         setEmailAttempts(0);
         setMessages([
@@ -79,7 +89,7 @@ const SupportChatbot: React.FC = () => {
             return;
         }
 
-        setUserData(prev => ({ ...prev, name }));
+        updateUserData({ name });
         setMessages(prev => [...prev, {
             role: 'model',
             text: `Thank you, ${name}. Now, could you provide your email address?`,
@@ -91,10 +101,10 @@ const SupportChatbot: React.FC = () => {
 
     const handleEmailInput = async (email: string) => {
         if (isValidEmail(email)) {
-            setUserData(prev => ({ ...prev, email }));
+            updateUserData({ email });
             setMessages(prev => [...prev, {
                 role: 'model',
-                text: `Great, ${userData.name}. What service do you need, or do you have a complaint or any other details?`,
+                text: `Great, ${userDataRef.current.name}. What service do you need, or do you have a complaint or any other details?`,
                 timestamp: new Date()
             }]);
             setCurrentState('DETAILS');
@@ -133,7 +143,12 @@ const SupportChatbot: React.FC = () => {
     };
 
     const handleDetailsInput = async (details: string) => {
-        setUserData(prev => ({ ...prev, details }));
+        // Capture the latest name & email from the ref BEFORE any async work
+        // This avoids the React stale-closure bug where userData state lags behind
+        const capturedName = userDataRef.current.name;
+        const capturedEmail = userDataRef.current.email;
+
+        updateUserData({ details });
 
         // Intelligent response generation
         const aiResponse = await getIntelligentResponse(details, messages);
@@ -142,10 +157,10 @@ const SupportChatbot: React.FC = () => {
         const isComplaint = complaintKeywords.some(word => details.toLowerCase().includes(word));
 
         const response = aiResponse
-            ? `${aiResponse}\n\nOur team will review your request and reach out to you via ${userData.email} soon. Have a great day!`
+            ? `${aiResponse}\n\nOur team will review your request and reach out to you via ${capturedEmail} soon. Have a great day!`
             : (isComplaint
-                ? `Thank you for sharing your complaint, ${userData.name}. I'll redirect this to our team, and they'll respond to you via ${userData.email} shortly. Have a great day!`
-                : `Thank you for sharing, ${userData.name}. Our team will review your request and reach out to you via ${userData.email} soon. Have a great day!`);
+                ? `Thank you for sharing your complaint, ${capturedName}. I'll redirect this to our team, and they'll respond to you via ${capturedEmail} shortly. Have a great day!`
+                : `Thank you for sharing, ${capturedName}. Our team will review your request and reach out to you via ${capturedEmail} soon. Have a great day!`);
 
         setMessages(prev => [...prev, {
             role: 'model',
@@ -155,20 +170,26 @@ const SupportChatbot: React.FC = () => {
         setCurrentState('CLOSED');
         setIsTyping(false);
 
-        // Push to Contact API
+        // Push to Airtable via Contact API using captured values (never stale)
         try {
-            await fetch('/api/contact', {
+            const res = await fetch('/api/contact', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
-                    fullName: userData.name,
-                    email: userData.email,
+                    fullName: capturedName,
+                    email: capturedEmail,
                     goals: details,
                     source: 'Support Chatbot'
                 })
             });
+            if (res.ok) {
+                console.log('[Chatbot] Lead successfully pushed to Airtable.');
+            } else {
+                const errBody = await res.text();
+                console.error('[Chatbot] Airtable push failed:', res.status, errBody);
+            }
         } catch (err) {
-            console.error('Error pushing lead to API:', err);
+            console.error('[Chatbot] Error pushing lead to API:', err);
         }
     };
 
