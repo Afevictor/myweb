@@ -4,7 +4,10 @@ on:
   schedule:
     # Runs at 08:00 UTC every day
     - cron: '0 8 * * *'
-  workflow_dispatch: # Allows manual triggering from GitHub actions tab
+  workflow_dispatch: # Allows manual triggering from the GitHub Actions tab
+
+permissions:
+  contents: write # Required to push the updated news.json back to the repo
 
 jobs:
   update-news:
@@ -20,14 +23,17 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm.cmd install rss-parser @supabase/supabase-js @google/generative-ai dotenv --no-save
-        # Note: Using --no-save to avoid changing package.json in CI
-        # Also using npm.cmd in case the runner environment prefers it, 
-        # but usually 'npm' works on ubuntu-latest. 
+        run: npm install rss-parser @google/generative-ai dotenv --no-save
 
-      - name: Run news update script
+      - name: Run news fetch script
         env:
-          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
-          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/fetch_news.js
+
+      - name: Commit and push updated news.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/news.json
+          git diff --cached --quiet || git commit -m "chore: daily news update [skip ci]"
+          git push
