@@ -1,15 +1,33 @@
 [
   {
-    "id": "zee406eqi",
+    "id": "lx46wka2t",
+    "title": "ABB: Physical AI simulation boosts ROI for factory automation",
+    "summary": "A new ABB and NVIDIA partnership shows physical AI simulation is driving real ROI in factory automation and solving production hurdles. Manufacturers have often found it difficult to make intelligent robotics work reliably outside testing environments. The core issue is the gap between digital training models and actual factory floors, where lighting, material physics, and […]\nThe post ABB: Physical AI simulation boosts ROI for factory automation appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-03-10T17:22:41.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/"
+  },
+  {
+    "id": "o3wm8p1eu",
+    "title": "Agentic AI in finance speeds up operational automation",
+    "summary": "In finance, achieving operational automation by integrating agentic AI requires a data-centric foundation to drive real value. Financial infrastructure provider SEI has engaged IBM to modernise its internal operations via AI and automation. The joint initiative focuses on process redesign and targeted system updates to deliver consistent client experiences, building a modern and data-enabled foundation […]\nThe post Agentic AI in finance speeds up operational automation appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-03-10T12:55:37.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/"
+  },
+  {
+    "id": "w0qg5ec2k",
     "title": "Mastercard brings agentic payments to life in Singapore with DBS and UOB",
-    "summary": "Mastercard has completed its first live, authenticated agent-based payment transaction in Singapore, a milestone that advances autonomous AI commerce from proof of concept to everyday use. Announced on March 4, 2026, the transaction was carried out in partnership with DBS and UOB, two of Southeast Asia’s largest banks. In the demonstration, an AI agent booked a ride to […]\nThe post Mastercard brings agentic payments to life in Singapore with DBS and UOB appeared first on AI News.",
+    "summary": "Mastercard has completed its first live, authenticated agent-based payment transaction in Singapore, a milestone that advances autonomous AI commerce from proof of concept to everyday use. Announced on March 4, 2026, the transaction was carried out in partnership with DBS and UOB, two of Southeast Asia’s largest banks. In the demonstration, an AI agent booked […]\nThe post Mastercard brings agentic payments to life in Singapore with DBS and UOB appeared first on AI News.",
     "category": "General AI",
     "date": "2026-03-10T07:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-3.png",
     "source_url": "https://www.artificialintelligence-news.com/news/mastercard-agentic-payments-singapore-dbs-uob/"
   },
   {
-    "id": "fqmya7lbx",
+    "id": "c7vi79765",
     "title": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
     "summary": "AI insurance underwriting has been called the next frontier of insurtech for years. The difference now is that the money backing it has moved from venture bets into institutional conviction. On March 3, Boston-based Gradient AI securedgrowth capital financing from CIBC Innovation Banking, a lender with over 25 years of experience backing growth-stage technology companies and […]\nThe post AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it appeared first on AI News.",
     "category": "General AI",
@@ -18,30 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/"
   },
   {
-    "id": "380roz90l",
+    "id": "zvle0nbxr",
     "title": "UK sovereign AI fund to build up domestic computing infrastructure",
     "summary": "The UK sovereign AI fund intends to secure advantages by providing a domestic alternative to external computing infrastructure. Backed by a £500 million budget from the Department for Science, Innovation and Technology, the unit formally launches on April 16th at 6pm GMT. James Wise, Partner at Balderton Capital, chairs the function to coordinate efforts across […]\nThe post UK sovereign AI fund to build up domestic computing infrastructure appeared first on AI News.",
     "category": "General AI",
     "date": "2026-03-09T12:46:13.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-3.png",
     "source_url": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/"
-  },
-  {
-    "id": "fmbjks7r4",
-    "title": "City Union Bank launches AI centre to support banking operations",
-    "summary": "Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One example emerged in India this month. City Union Bank recently entered a four-party agreement to create a Centre of Excellence for Artificial Intelligence in […]\nThe post City Union Bank launches AI centre to support banking operations appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-03-09T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/"
-  },
-  {
-    "id": "wz0s7ve6u",
-    "title": "Scaling intelligent automation without breaking live workflows",
-    "summary": "Scaling intelligent automation without disruption demands a focus on architectural elasticity, not just deploying more bots. At the Intelligent Automation Conference, industry leaders gathered to dissect why many automation initiatives stall after pilot phases. Speaking alongside representatives from NatWest Group, Air Liquide, and AXA XL, Promise Akwaowo, Process Automation Analyst at Royal Mail, grounded the […]\nThe post Scaling intelligent automation without breaking live workflows appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-03-06T13:15:41.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image.jpeg",
-    "source_url": "https://www.artificialintelligence-news.com/news/scaling-intelligent-automation-without-breaking-live-workflows/"
   }
 ]
