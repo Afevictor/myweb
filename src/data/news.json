@@ -1,6 +1,24 @@
 [
   {
-    "id": "qtq2fjnip",
+    "id": "391drjwvf",
+    "title": "E.SUN Bank and IBM build AI governance framework for banking",
+    "summary": "E.SUN Bank is working with IBM to build clearer AI governance rules for how artificial intelligence can be used inside a bank. The effort reflects a wider shift in finance. Many firms already use AI for fraud checks and credit scoring, and some also use it to handle customer service queries. The new challenge is […]\nThe post E.SUN Bank and IBM build AI governance framework for banking appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-03-13T10:00:00.000Z",
+    "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/"
+  },
+  {
+    "id": "nw340ilz7",
+    "title": "BMW puts humanoid robots to work in Germany–and Europe’s factories are watching",
+    "summary": "Europe’s factory floors have a new kind of colleague. BMW Group has deployed humanoid robots in manufacturing in Germany for the first time, launching a pilot project at its Leipzig plant with AEON–a wheeled humanoid built by Hexagon Robotics.  It is the first automotive deployment of AEON anywhere in the world, and it marks something of a […]\nThe post BMW puts humanoid robots to work in Germany–and Europe’s factories are watching appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-03-13T09:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/humanoide-roboter-leipzig-v3-1280x720-1-1024x576.jpeg",
+    "source_url": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/"
+  },
+  {
+    "id": "xxrtyno0e",
     "title": "How multi-agent AI economics influence business automation",
     "summary": "Managing the economics of multi-agent AI now dictates the financial viability of modern business automation workflows. Organisations progressing past standard chat interfaces into multi-agent applications face two primary constraints. The first issue is the thinking tax; complex autonomous agents need to reason at each stage, making the reliance on massive architectures for every subtask too […]\nThe post How multi-agent AI economics influence business automation appeared first on AI News.",
     "category": "General AI",
@@ -9,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/"
   },
   {
-    "id": "h7j661jp6",
+    "id": "d7cd0z47u",
     "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
     "summary": "When Romy Gai, FIFA’s chief business officer, described the operational challenge of running a 48-team World Cup across Canada, Mexico and the United States, he was not talking about technology. He was talking about complexity. Previous World Cups relied on local organising committees to absorb much of the logistical load. For 2026, FIFA is running operations directly. […]\nThe post FIFA is rebuilding world football operations on AI. The World Cup is just the first test appeared first on AI News.",
     "category": "General AI",
@@ -18,30 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/"
   },
   {
-    "id": "u5z9tkw1k",
+    "id": "qz1p80f34",
     "title": "Ai2: Building physical AI with virtual simulation data",
     "summary": "Virtual simulation data is driving the development of physical AI across corporate environments, led by initiatives like Ai2’s MolmoBot. Instructing hardware to interact with the real world has historically relied on highly expensive and manually-collected demonstrations. Technology providers building generalist manipulation agents typically frame extensive real-world training as the basis for these systems. For some […]\nThe post Ai2: Building physical AI with virtual simulation data appeared first on AI News.",
     "category": "General AI",
     "date": "2026-03-11T16:50:56.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
     "source_url": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/"
-  },
-  {
-    "id": "p7g7gxxmq",
-    "title": "New partnership to offer smart robots for dangerous environments",
-    "summary": "ADLINK Technology has signed a strategic alliance and joint development agreement with Under Control Robotics, the company behind the robotics startup Noble Machines. The two firms will combine ADLINK’s edge AI platforms with Noble Machines’ autonomy software to create a new generation of general-purpose robots for modern manufactories and engineering plants. The work focuses on […]\nThe post New partnership to offer smart robots for dangerous environments appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-03-11T11:42:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/"
-  },
-  {
-    "id": "jqud1jadz",
-    "title": "Manulife moves AI agents into core financial workflows",
-    "summary": "Large financial firms have spent years testing artificial intelligence in small projects, often limited to data analysis or customer support tools. The next phase appears to involve something more operational: systems that can take action in business workflows. Canadian insurer Manulife is moving in that direction as it works to deploy agent-based AI systems inside […]\nThe post Manulife moves AI agents into core financial workflows appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-03-11T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/"
   }
 ]
