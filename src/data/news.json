@@ -1,6 +1,24 @@
 [
   {
-    "id": "wuu6x4e5n",
+    "id": "kuw2mgl8w",
+    "title": "Trustpilot partners with AI companies as traditional search declines",
+    "summary": "Trustpilot is reported to be pursuing partnerships with large eCommerce companies as AI-driven shopping gains traction. In an interview with Bloomberg News [paywall], chief executive Adrian Blair said that AI agents acting on behalf of consumers require lots of information about the businesses they’re willing to interact with. He said the most effective systems will […]\nThe post Trustpilot partners with AI companies as traditional search declines appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-03-17T12:26:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/"
+  },
+  {
+    "id": "twl9qz3ua",
+    "title": "Goldman Sachs sees AI investment shift to data centres",
+    "summary": "Artificial intelligence investment is entering a more selective phase as companies and investors look beyond early excitement and focus on the data centre infrastructure required to run AI systems. Recent analysis from Goldman Sachs suggests the market is moving toward what the firm describes as a “flight to quality.” In practice, investors are paying closer […]\nThe post Goldman Sachs sees AI investment shift to data centres appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-03-17T10:00:00.000Z",
+    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/"
+  },
+  {
+    "id": "q446sf7t8",
     "title": "US Treasury publishes AI risk Guidebook for financial institutions",
     "summary": "The US Treasury has published several documents designed for the US financial services sector that suggest a structured approach to managing AI risks in operations and policy (see subheading ‘Resources and Downloads’ towards the bottom of the link). The CRI Financial Services AI Risk Management Framework (FS AI RMF) comes with a Guidebook [.docx] which […]\nThe post US Treasury publishes AI risk Guidebook for financial institutions appeared first on AI News.",
     "category": "General AI",
@@ -9,39 +27,21 @@
     "source_url": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/"
   },
   {
-    "id": "rds5jo1w5",
+    "id": "3boyuskdp",
     "title": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
     "summary": "NTT DATA has announced an initiative to deliver NVIDIA-powered platforms designed to give organisations a repeatable, production-ready model for scaling AI. The offering integrates NVIDIA’s GPU-accelerated computing and high-performance networking with NVIDIA AI Enterprise software, including NeMo and NIM Microservices, into a full-stack agentic AI platform that can be deployed in cloud and edge environments. […]\nThe post NTT DATA and NVIDIA bring enterprise AI factories to production scale appeared first on AI News.",
     "category": "General AI",
     "date": "2026-03-16T12:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
     "source_url": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/"
   },
   {
-    "id": "gax96xmpi",
+    "id": "v9quf74zz",
     "title": "OpenAI’s Frontier puts AI agents in a fight SaaS can’t afford to lose",
     "summary": "When OpenAI launched Frontier in February, the announcement was described as a platform for enterprise AI agents. What it actually signalled was a challenge to the revenue architecture underpinning the software industry. Frontier is designed to act as a semantic layer in an organisation’s existing systems, connecting data warehouses, CRM platforms, ticketing tools, and internal […]\nThe post OpenAI’s Frontier puts AI agents in a fight SaaS can’t afford to lose appeared first on AI News.",
     "category": "General AI",
     "date": "2026-03-16T10:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/Screenshot-2026-03-16-at-4.30.22-PM-1024x534.png",
     "source_url": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/"
-  },
-  {
-    "id": "prlvwz0rl",
-    "title": "E.SUN Bank and IBM build AI governance framework for banking",
-    "summary": "E.SUN Bank is working with IBM to build clearer AI governance rules for how artificial intelligence can be used inside a bank. The effort reflects a wider shift in finance. Many firms already use AI for fraud checks and credit scoring, and some also use it to handle customer service queries. The new challenge is […]\nThe post E.SUN Bank and IBM build AI governance framework for banking appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-03-13T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/"
-  },
-  {
-    "id": "t4lbke2zz",
-    "title": "BMW puts humanoid robots to work in Germany–and Europe’s factories are watching",
-    "summary": "Europe’s factory floors have a new kind of colleague. BMW Group has deployed humanoid robots in manufacturing in Germany for the first time, launching a pilot project at its Leipzig plant with AEON–a wheeled humanoid built by Hexagon Robotics.  It is the first automotive deployment of AEON anywhere in the world, and it marks something of a […]\nThe post BMW puts humanoid robots to work in Germany–and Europe’s factories are watching appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-03-13T09:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/humanoide-roboter-leipzig-v3-1280x720-1-1024x576.jpeg",
-    "source_url": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/"
   }
 ]
