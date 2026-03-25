@@ -1,6 +1,24 @@
 [
   {
-    "id": "ro2yq04b5",
+    "id": "t96dm199e",
+    "title": "Automating complex finance workflows with multimodal AI",
+    "summary": "Finance leaders are automating their complex workflows by actively adopting powerful new multimodal AI frameworks. Extracting text from unstructured documents presents a frequent headache for developers. Historically, standard optical character recognition systems failed to accurately digitise complex layouts, frequently converting multi-column files, pictures, and layered datasets into an unreadable mess of plain text. The varied […]\nThe post Automating complex finance workflows with multimodal AI appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-03-24T17:03:48.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/"
+  },
+  {
+    "id": "gfp2gh3do",
+    "title": "Securing AI systems under today’s and tomorrow’s conditions",
+    "summary": "Evidence cited in an eBook titled “AI Quantum Resilience”, published by Utimaco [email wall], shows organisations consider security risks as the leading barrier to effective adoption of AI on data they hold. AI’s value depends on data amassed by an organisation. However, there are security risks to building models and training them on that data. […]\nThe post Securing AI systems under today’s and tomorrow’s conditions appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-03-24T15:22:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/"
+  },
+  {
+    "id": "yt5imurse",
     "title": "Palantir AI to support UK finance operations",
     "summary": "UK authorities believe improving efficiency across national finance operations requires applying AI platforms from vendors like Palantir. The country’s financial regulator, the FCA, has initiated a project leveraging AI to identify illicit activities. The FCA is currently testing the Foundry platform from Miami-based software vendor Palantir. This three-month pilot costs upwards of £30,000 per week […]\nThe post Palantir AI to support UK finance operations appeared first on AI News.",
     "category": "General AI",
@@ -9,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/"
   },
   {
-    "id": "gd744rs0s",
+    "id": "307bhbmlv",
     "title": "Visa prepares payment systems for AI agent-initiated transactions",
     "summary": "Payments rely on a simple model: a person decides to buy something, and a bank or card network processes the transaction. That model is starting to change as Visa tests how AI agents can initiate payments. New work in the banking sector suggests that, in some cases, software agents may soon take on that role. […]\nThe post Visa prepares payment systems for AI agent-initiated transactions appeared first on AI News.",
     "category": "General AI",
@@ -18,30 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/"
   },
   {
-    "id": "8yhmi54hy",
+    "id": "g6vvc0vj7",
     "title": "NVIDIA wants enterprise AI agents safer to deploy",
     "summary": "The NVIDIA Agent Toolkit is Jensen Huang’s answer to the question enterprises keep asking: how do we put AI agents to work without losing control of our data and our liability? Announced at GTC 2026 in San Jose on March 16, the NVIDIA Agent Toolkit is an open-source software stack designed to help enterprises and […]\nThe post NVIDIA wants enterprise AI agents safer to deploy appeared first on AI News.",
     "category": "General AI",
     "date": "2026-03-19T08:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI.png",
     "source_url": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/"
-  },
-  {
-    "id": "dig3vz5y6",
-    "title": "Mastercard keeps tabs on fraud with new foundation model",
-    "summary": "Mastercard has developed a large tabular model (an LTM as opposed to an LLM) that’s trained on transaction data rather than text or images to help it address security and authenticity issues in digital payments. The company has trained a foundation model on billions of card transactions, with the intention of expanding to hundreds of […]\nThe post Mastercard keeps tabs on fraud with new foundation model appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-03-18T15:31:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/"
-  },
-  {
-    "id": "3tp0q59n7",
-    "title": "For effective AI, insurance needs to get its data house in order",
-    "summary": "A report from Autorek, a provider of AI solutions to the insurance industry has produced a report that describes operational drag in companies’ internal processes that not only affect overall efficiency but cause an impediment to the effective implementation of AI in insurance concerns. Insurance Operations & Financial Transformation 2026 [email wall] draws from a […]\nThe post For effective AI, insurance needs to get its data house in order appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-03-18T14:37:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/"
   }
 ]
