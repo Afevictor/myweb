@@ -1,6 +1,24 @@
 [
   {
-    "id": "t96dm199e",
+    "id": "zvutt11nw",
+    "title": "Ocorian: Family offices turn to AI for financial data insights",
+    "summary": "To gain financial data insights, the majority of family offices now turn to AI, according to new research from Ocorian. The global study reveals 86 percent of these private wealth groups are utilising AI to improve their daily operations and data analysis. Representing a combined wealth of $119.37 billion, these organisations want machine learning to […]\nThe post Ocorian: Family offices turn to AI for financial data insights appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-03-25T14:58:29.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/"
+  },
+  {
+    "id": "odx56mn6o",
+    "title": "AI agents enter banking roles at Bank of America",
+    "summary": "AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move into systems that support client interactions. Bank of America is now deploying an internal AI-powered advisory platform to a subset of financial advisers, rolled out to around 1,000 financial advisers, according to Banking Dive. […]\nThe post AI agents enter banking roles at Bank of America appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-03-25T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/"
+  },
+  {
+    "id": "i9xqw2zeo",
     "title": "Automating complex finance workflows with multimodal AI",
     "summary": "Finance leaders are automating their complex workflows by actively adopting powerful new multimodal AI frameworks. Extracting text from unstructured documents presents a frequent headache for developers. Historically, standard optical character recognition systems failed to accurately digitise complex layouts, frequently converting multi-column files, pictures, and layered datasets into an unreadable mess of plain text. The varied […]\nThe post Automating complex finance workflows with multimodal AI appeared first on AI News.",
     "category": "General AI",
@@ -9,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/"
   },
   {
-    "id": "gfp2gh3do",
+    "id": "nu02gxl6m",
     "title": "Securing AI systems under today’s and tomorrow’s conditions",
     "summary": "Evidence cited in an eBook titled “AI Quantum Resilience”, published by Utimaco [email wall], shows organisations consider security risks as the leading barrier to effective adoption of AI on data they hold. AI’s value depends on data amassed by an organisation. However, there are security risks to building models and training them on that data. […]\nThe post Securing AI systems under today’s and tomorrow’s conditions appeared first on AI News.",
     "category": "General AI",
@@ -18,30 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/"
   },
   {
-    "id": "yt5imurse",
+    "id": "m1xrgnaq0",
     "title": "Palantir AI to support UK finance operations",
     "summary": "UK authorities believe improving efficiency across national finance operations requires applying AI platforms from vendors like Palantir. The country’s financial regulator, the FCA, has initiated a project leveraging AI to identify illicit activities. The FCA is currently testing the Foundry platform from Miami-based software vendor Palantir. This three-month pilot costs upwards of £30,000 per week […]\nThe post Palantir AI to support UK finance operations appeared first on AI News.",
     "category": "General AI",
     "date": "2026-03-23T13:14:23.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
     "source_url": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/"
-  },
-  {
-    "id": "307bhbmlv",
-    "title": "Visa prepares payment systems for AI agent-initiated transactions",
-    "summary": "Payments rely on a simple model: a person decides to buy something, and a bank or card network processes the transaction. That model is starting to change as Visa tests how AI agents can initiate payments. New work in the banking sector suggests that, in some cases, software agents may soon take on that role. […]\nThe post Visa prepares payment systems for AI agent-initiated transactions appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-03-19T10:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/"
-  },
-  {
-    "id": "g6vvc0vj7",
-    "title": "NVIDIA wants enterprise AI agents safer to deploy",
-    "summary": "The NVIDIA Agent Toolkit is Jensen Huang’s answer to the question enterprises keep asking: how do we put AI agents to work without losing control of our data and our liability? Announced at GTC 2026 in San Jose on March 16, the NVIDIA Agent Toolkit is an open-source software stack designed to help enterprises and […]\nThe post NVIDIA wants enterprise AI agents safer to deploy appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-03-19T08:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/"
   }
 ]
