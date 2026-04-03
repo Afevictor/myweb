@@ -1,47 +1,47 @@
 [
   {
-    "id": "ha134kwrm",
-    "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
-    "summary": "Global AI investment is accelerating, yet KPMG data shows the gap between enterprise AI spend and measurable business value is widening fast. The headline figure from KPMG’s first quarterly Global AI Pulse survey is blunt: despite global organisations planning to spend a weighted average of $186 million on AI over the next 12 months, only […]\nThe post KPMG: Inside the AI agent playbook driving enterprise margin gains appeared first on AI News.",
+    "id": "pedtoiq0p",
+    "title": "KiloClaw targets shadow AI with autonomous agent governance",
+    "summary": "With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employees are bypassing official procurement, deploying autonomous agents on personal infrastructure to […]\nThe post KiloClaw targets shadow AI with autonomous agent governance appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-04-01T15:24:01.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/steve-chase-kpmg.jpg",
-    "source_url": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/"
-  },
-  {
-    "id": "8a978n28v",
-    "title": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI",
-    "summary": "AI is everywhere in the enterprise. The translation workflow often is not. That is the core finding of DeepL’s 2026 Language AI report, “Borderless Business: Transforming Translation in the Age of AI,” published on March 10. Despite broad AI investment across business functions, the report reveals that language and multilingual operations–workflows that touch sales, legal, customer support, and […]\nThe post DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-01T12:00:00.000Z",
+    "date": "2026-04-02T16:30:53.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/"
+    "source_url": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/"
   },
   {
-    "id": "5zb7erb4p",
-    "title": "Hershey applies AI across its supply chain operations",
-    "summary": "Artificial intelligence is moving beyond software and further into the physical side of business. Companies in food production and logistics are starting to use data systems to support day-to-day decisions, not long-term planning. That change is visible in The Hershey Company’s latest strategy update. At its Investor Day, the company said it plans to use […]\nThe post Hershey applies AI across its supply chain operations appeared first on AI News.",
+    "id": "hw34jfm77",
+    "title": "5 best practices to secure AI systems",
+    "summary": "A decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address. As this technology becomes embedded in critical operations, companies need a multi-layered defense strategy […]\nThe post 5 best practices to secure AI systems appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-04-01T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/"
+    "date": "2026-04-02T14:45:03.000Z",
+    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/"
   },
   {
-    "id": "2acdd3zel",
-    "title": "SAP and ANYbotics drive industrial adoption of physical AI",
-    "summary": "Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks. Swiss robot maker ANYbotics and software company SAP are trying to change that. ANYbotics’ four-legged autonomous robots will be connected straight into SAP’s backend enterprise resource planning software. Instead of treating a robot […]\nThe post SAP and ANYbotics drive industrial adoption of physical AI appeared first on AI News.",
+    "id": "ipnfyfq5r",
+    "title": "China’s Five-Year Plan details the targets for AI deployment",
+    "summary": "China has approved its 15th Five-Year Plan [PDF] setting out the country’s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts. AI is grouped alongside quantum computing, biotechnology, and energy as paths that are to […]\nThe post China’s Five-Year Plan details the targets for AI deployment appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-03-31T15:20:53.000Z",
+    "date": "2026-04-02T13:23:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/"
+  },
+  {
+    "id": "5qak3xmnd",
+    "title": "Autonomous AI systems depend on data governance",
+    "summary": "Much of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on. If the data feeding an AI system is fragmented, outdated, or lacks oversight, the system’s behaviour can become more unpredictable. […]\nThe post Autonomous AI systems depend on data governance appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-02T10:00:00.000Z",
+    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/"
+  },
+  {
+    "id": "src59ac9i",
+    "title": "Experian uncovers fraud paradox in financial services’ AI adoption",
+    "summary": "The same technology that financial institutions deploying is being weaponised against them. That is the core tension running through Experian’s 2026 Future of Fraud Forecast, and it’s a tension the company is in a position to name because it sits on both sides of it. According to FTC data cited in the forecast, consumers lost […]\nThe post Experian uncovers fraud paradox in financial services’ AI adoption appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-02T10:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/"
-  },
-  {
-    "id": "r6d7awmp3",
-    "title": "Secure governance accelerates financial AI revenue growth",
-    "summary": "Financial institutions are learning to deploy compliant AI solutions for greater revenue growth and market advantage. For the better part of ten years, financial institutions viewed AI primarily as a mechanism for pure efficiency gains. During that era, quantitative teams programmed systems designed to discover ledger discrepancies or eliminate milliseconds from automated trading execution times. […]\nThe post Secure governance accelerates financial AI revenue growth appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-03-30T15:54:58.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/"
+    "source_url": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/"
   }
 ]
