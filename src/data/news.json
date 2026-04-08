@@ -1,47 +1,47 @@
 [
   {
-    "id": "kfzgee2yz",
+    "id": "ypoviydqc",
+    "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+    "summary": "Exciting times are ahead in the world of enterprise perimeter security with a new partnership between Thrive Logic, an AI agent-driven security and operational intelligence platform, and Asylon, a security robotics company. Together, the companies are to introduce physical AI into the network edge security arena, combining “autonomous perimeter patrols with agentic AI analytics and […]\nThe post Asylon and Thrive Logic bring physical AI to enterprise perimeter security appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-07T14:40:42.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/"
+  },
+  {
+    "id": "grtkn9ctr",
+    "title": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
+    "summary": "The failure mode for enterprise AI in 2026 is not what most people expected. It is not that the models are wrong, or that agents cannot reason, or that the technology is overhyped. The failure mode is that the data feeding those systems is fragmented, inconsistently labelled, and spread across dozens of applications that were […]\nThe post Boomi calls it “data activation” and says it’s the missing step in every AI deployment appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-07T12:00:00.000Z",
+    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/"
+  },
+  {
+    "id": "a4xll9r2i",
+    "title": "Anthropic’s refusal to arm AI is exactly why the UK wants it",
+    "summary": "The Anthropic UK expansion story is less about diplomatic courtship and more about what happens when a government punishes a company for having principles. In late February, US Defence Secretary Pete Hegseth gave Anthropic CEO Dario Amodei a stark ultimatum: remove guardrails preventing Claude from being used for fully autonomous weapons and domestic mass surveillance, […]\nThe post Anthropic’s refusal to arm AI is exactly why the UK wants it appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-07T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/"
+  },
+  {
+    "id": "vx8en0nhd",
     "title": "As AI agents take on more tasks, governance becomes a priority",
     "summary": "AI systems are starting to move beyond simple responses. In many organisations, AI agents are now being tested to plan tasks, make decisions, and carry out actions with limited human input. It is no longer just about whether a model gives the right answer. It is about what happens when that model is allowed to […]\nThe post As AI agents take on more tasks, governance becomes a priority appeared first on AI News.",
     "category": "General AI",
     "date": "2026-04-06T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1200",
+    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
     "source_url": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/"
   },
   {
-    "id": "wyu9svh2l",
+    "id": "7570o3ibx",
     "title": "KiloClaw targets shadow AI with autonomous agent governance",
     "summary": "With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employees are bypassing official procurement, deploying autonomous agents on personal infrastructure to […]\nThe post KiloClaw targets shadow AI with autonomous agent governance appeared first on AI News.",
     "category": "General AI",
     "date": "2026-04-02T16:30:53.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
     "source_url": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/"
-  },
-  {
-    "id": "1tqc6be3k",
-    "title": "5 best practices to secure AI systems",
-    "summary": "A decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address. As this technology becomes embedded in critical operations, companies need a multi-layered defense strategy […]\nThe post 5 best practices to secure AI systems appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-02T14:45:03.000Z",
-    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/"
-  },
-  {
-    "id": "nq20gipnr",
-    "title": "China’s Five-Year Plan details the targets for AI deployment",
-    "summary": "China has approved its 15th Five-Year Plan [PDF] setting out the country’s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts. AI is grouped alongside quantum computing, biotechnology, and energy as paths that are to […]\nThe post China’s Five-Year Plan details the targets for AI deployment appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-02T13:23:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/"
-  },
-  {
-    "id": "vu8ljlvqy",
-    "title": "Autonomous AI systems depend on data governance",
-    "summary": "Much of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on. If the data feeding an AI system is fragmented, outdated, or lacks oversight, the system’s behaviour can become more unpredictable. […]\nThe post Autonomous AI systems depend on data governance appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-02T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/"
   }
 ]
