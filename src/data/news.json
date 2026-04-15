@@ -1,6 +1,33 @@
 [
   {
-    "id": "j5wk3bkik",
+    "id": "aiz5f4afk",
+    "title": "SAP brings agentic AI to human capital management",
+    "summary": "According to SAP, integrating agentic AI into core human capital management (HCM) modules helps target operational bloat and reduce costs. SAP’s SuccessFactors 1H 2026 release aims to anticipate administrative bottlenecks before they stall daily operations by embedding a network of AI agents across recruiting, payroll, workforce administration, and talent development. Behind the user interface, these […]\nThe post SAP brings agentic AI to human capital management appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-14T12:55:09.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/"
+  },
+  {
+    "id": "e0d0qbacv",
+    "title": "Canada’s Scotiabank preps for its AI future",
+    "summary": "Scotiabank has launched an AI framework, Scotia Intelligence, for data and AI operations that joins various platforms, data oversight, and software tools into a single instance. According to a press release from the bank, the stated purpose of Scotia Intelligence is to give employees, especially client-facing teams, access to AI under the bank’s existing governance […]\nThe post Canada’s Scotiabank preps for its AI future appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-14T11:20:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/"
+  },
+  {
+    "id": "hlijw5pd8",
+    "title": "Hyundai expands into robotics and physical AI systems",
+    "summary": "Hyundai Motor Group is starting to look like a company building machines that act in the real world. The change centres on physical AI: Where AI is placed into robots and systems that move and respond in physical spaces. Current efforts are mainly focused on factory and industrial settings. Hyundai’s move into physical AI systems […]\nThe post Hyundai expands into robotics and physical AI systems appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-14T10:00:00.000Z",
+    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/"
+  },
+  {
+    "id": "yc12q1dm4",
     "title": "Strengthening enterprise governance for rising edge AI workloads",
     "summary": "Models like Google Gemma 4 are increasing enterprise AI governance challenges for CISOs as they scramble to secure edge workloads. Security chiefs have built massive digital walls around the cloud; deploying advanced cloud access security brokers and routing every piece of traffic heading to external large language models through monitored corporate gateways. The logic was […]\nThe post Strengthening enterprise governance for rising edge AI workloads appeared first on AI News.",
     "category": "General AI",
@@ -9,39 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/"
   },
   {
-    "id": "zd6zy54zx",
+    "id": "lplp3tdud",
     "title": "Companies expand AI adoption while keeping control",
     "summary": "Many companies are taking a slower, more controlled approach to autonomous systems as AI adoption grows. Rather than deploying systems that act on their own, they are focusing on tools that assist human decision-making and keep control over outputs. This approach is especially clear in sectors where errors carry real financial or legal risk. One […]\nThe post Companies expand AI adoption while keeping control appeared first on AI News.",
     "category": "General AI",
     "date": "2026-04-13T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
     "source_url": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/"
-  },
-  {
-    "id": "hy8nfr7s2",
-    "title": "IBM: How robust AI governance protects enterprise margins",
-    "summary": "To protect enterprise margins, business leaders must invest in robust AI governance to securely manage AI infrastructure. When evaluating enterprise software adoption, a recurring pattern dictates how technology matures across industries. As Rob Thomas, SVP and CCO at IBM, recently outlined, software typically graduates from a standalone product to a platform, and then from a […]\nThe post IBM: How robust AI governance protects enterprise margins appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-10T13:57:15.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/"
-  },
-  {
-    "id": "8bff8dzk8",
-    "title": "Why companies like Apple are building AI agents with limits",
-    "summary": "Next-generation AI assistants being developed in the Apple ecosystem and by chipmakers like Qualcomm, but early reports suggest they are being designed with limits in place. Tom’s Guide has described early versions of these assistants as capable of navigating apps, carrying out bookings, and managing tasks in services. For instance a private beta agentic system […]\nThe post Why companies like Apple are building AI agents with limits appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-10T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/"
-  },
-  {
-    "id": "we4hvv4bh",
-    "title": "Meta has a competitive AI model but loses its open-source identity",
-    "summary": "The open-source AI movement has never lacked for options. Mistral, Falcon, and a growing field of open-weight models have been available to developers for years. But when Meta threw its weight behind Llama, something shifted. A company with three billion users, vast compute resources, and the credibility of a tech giant was now building openly, […]\nThe post Meta has a competitive AI model but loses its open-source identity appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-10T08:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/"
   }
 ]
