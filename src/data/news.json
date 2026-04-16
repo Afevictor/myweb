@@ -1,47 +1,47 @@
 [
   {
-    "id": "aiz5f4afk",
+    "id": "c1g8190v6",
+    "title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
+    "summary": "Enterprise cloud environments now have access to an undo feature for AI agents following the deployment of Commvault AI Protect. Autonomous software now roams across infrastructure, potentially deleting files, reading databases, spinning up server clusters, and even rewriting access policies. Commvault identified this governance issue and the data protection vendor has launched AI Protect, a […]\nThe post Commvault launches a ‘Ctrl-Z’ for cloud AI workloads appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-15T16:28:19.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/"
+  },
+  {
+    "id": "zwzmvollm",
+    "title": "Citizen developers now have their own Wingman",
+    "summary": "A vibe-coding application creation company, Emergent, has released Wingman, an autonomous agent that can address and take control of the applications used to manage daily tasks. The company’s press release states: “The best technology should be accessible to everyone”, and cites the difficulty that users without a technical background have in creating software applications. It […]\nThe post Citizen developers now have their own Wingman appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-15T14:42:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/"
+  },
+  {
+    "id": "qayqtijrf",
+    "title": "Drones get smarter for large farm holdings",
+    "summary": "Singapore-based DroneDash Technologies and GEODNET have formed a joint venture to be called GEODASH Aerosystems, to build an agricultural spraying drone for large industrial farms. The companies say the near-production drone technology is designed to remove the need to map a field to be treated before each flight, and the need to rebuild flight plans […]\nThe post Drones get smarter for large farm holdings appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-15T11:03:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/"
+  },
+  {
+    "id": "lkr0rrbgl",
+    "title": "The US-China AI gap closes amid responsible AI concerns",
+    "summary": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University’s 2026 AI Index Report, published this week. The report, produced by Stanford’s Institute for Human-Centred Artificial Intelligence, is a 423-page annual assessment of where […]\nThe post The US-China AI gap closes amid responsible AI concerns appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-15T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-3.58.40-PM-1024x962.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/"
+  },
+  {
+    "id": "k8ufb4t6l",
     "title": "SAP brings agentic AI to human capital management",
     "summary": "According to SAP, integrating agentic AI into core human capital management (HCM) modules helps target operational bloat and reduce costs. SAP’s SuccessFactors 1H 2026 release aims to anticipate administrative bottlenecks before they stall daily operations by embedding a network of AI agents across recruiting, payroll, workforce administration, and talent development. Behind the user interface, these […]\nThe post SAP brings agentic AI to human capital management appeared first on AI News.",
     "category": "General AI",
     "date": "2026-04-14T12:55:09.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
     "source_url": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/"
-  },
-  {
-    "id": "e0d0qbacv",
-    "title": "Canada’s Scotiabank preps for its AI future",
-    "summary": "Scotiabank has launched an AI framework, Scotia Intelligence, for data and AI operations that joins various platforms, data oversight, and software tools into a single instance. According to a press release from the bank, the stated purpose of Scotia Intelligence is to give employees, especially client-facing teams, access to AI under the bank’s existing governance […]\nThe post Canada’s Scotiabank preps for its AI future appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-14T11:20:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/"
-  },
-  {
-    "id": "hlijw5pd8",
-    "title": "Hyundai expands into robotics and physical AI systems",
-    "summary": "Hyundai Motor Group is starting to look like a company building machines that act in the real world. The change centres on physical AI: Where AI is placed into robots and systems that move and respond in physical spaces. Current efforts are mainly focused on factory and industrial settings. Hyundai’s move into physical AI systems […]\nThe post Hyundai expands into robotics and physical AI systems appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-14T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/"
-  },
-  {
-    "id": "yc12q1dm4",
-    "title": "Strengthening enterprise governance for rising edge AI workloads",
-    "summary": "Models like Google Gemma 4 are increasing enterprise AI governance challenges for CISOs as they scramble to secure edge workloads. Security chiefs have built massive digital walls around the cloud; deploying advanced cloud access security brokers and routing every piece of traffic heading to external large language models through monitored corporate gateways. The logic was […]\nThe post Strengthening enterprise governance for rising edge AI workloads appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-13T13:02:01.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/"
-  },
-  {
-    "id": "lplp3tdud",
-    "title": "Companies expand AI adoption while keeping control",
-    "summary": "Many companies are taking a slower, more controlled approach to autonomous systems as AI adoption grows. Rather than deploying systems that act on their own, they are focusing on tools that assist human decision-making and keep control over outputs. This approach is especially clear in sectors where errors carry real financial or legal risk. One […]\nThe post Companies expand AI adoption while keeping control appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-13T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/"
   }
 ]
