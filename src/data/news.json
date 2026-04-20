@@ -1,6 +1,15 @@
 [
   {
-    "id": "fhg10gqsh",
+    "id": "6m1xwuec1",
+    "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
+    "summary": "When we covered Project Glasswing earlier this month, the story was about a model too dangerous to release publicly and what Anthropic decided to do with it instead. That story has moved. On Friday, Anthropic CEO Dario Amodei walked into the West Wing for a meeting with White House Chief of Staff Susie Wiles. Treasury […]\nThe post Anthropic walks into the White House and Mythos is the reason Washington let it in appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-20T08:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/"
+  },
+  {
+    "id": "l21ic6ltg",
     "title": "OpenAI Agents SDK improves governance with sandbox execution",
     "summary": "OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficult architectural compromises regarding where their operations occurred. Using model-agnostic frameworks offered initial flexibility but failed to fully utilise the capabilities of frontier models. Model-provider SDKs remained closer to […]\nThe post OpenAI Agents SDK improves governance with sandbox execution appeared first on AI News.",
     "category": "General AI",
@@ -9,16 +18,16 @@
     "source_url": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/"
   },
   {
-    "id": "wnavc3353",
+    "id": "m7qktwrnu",
     "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
     "summary": "Cadence Design Systems announced two AI-related collaborations at its CadenceLIVE event this week, expanding its work with Nvidia and introducing new integrations with Google Cloud. The Nvidia partnership focuses on combining AI with physics-based simulation and accelerated computing for robotic systems and system-level design. The companies said the approach targets modelling and deployment in semiconductors […]\nThe post Cadence expands AI and robotic partnerships with Nvidia, Google Cloud appeared first on AI News.",
     "category": "General AI",
     "date": "2026-04-16T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
     "source_url": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/"
   },
   {
-    "id": "768u0xy4c",
+    "id": "u4udbiz31",
     "title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
     "summary": "Enterprise cloud environments now have access to an undo feature for AI agents following the deployment of Commvault AI Protect. Autonomous software now roams across infrastructure, potentially deleting files, reading databases, spinning up server clusters, and even rewriting access policies. Commvault identified this governance issue and the data protection vendor has launched AI Protect, a […]\nThe post Commvault launches a ‘Ctrl-Z’ for cloud AI workloads appeared first on AI News.",
     "category": "General AI",
@@ -27,21 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/"
   },
   {
-    "id": "3k24xu2rh",
+    "id": "hh5x4060k",
     "title": "Citizen developers now have their own Wingman",
     "summary": "A vibe-coding application creation company, Emergent, has released Wingman, an autonomous agent that can address and take control of the applications used to manage daily tasks. The company’s press release states: “The best technology should be accessible to everyone”, and cites the difficulty that users without a technical background have in creating software applications. It […]\nThe post Citizen developers now have their own Wingman appeared first on AI News.",
     "category": "General AI",
     "date": "2026-04-15T14:42:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
     "source_url": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/"
-  },
-  {
-    "id": "52qgiq0ve",
-    "title": "Drones get smarter for large farm holdings",
-    "summary": "Singapore-based DroneDash Technologies and GEODNET have formed a joint venture to be called GEODASH Aerosystems, to build an agricultural spraying drone for large industrial farms. The companies say the near-production drone technology is designed to remove the need to map a field to be treated before each flight, and the need to rebuild flight plans […]\nThe post Drones get smarter for large farm holdings appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-15T11:03:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/"
   }
 ]
