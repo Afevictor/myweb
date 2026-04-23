@@ -1,15 +1,33 @@
 [
   {
-    "id": "lq2vbekr0",
+    "id": "cozq7rz8m",
+    "title": "Reversing enterprise security costs with AI vulnerability discovery",
+    "summary": "Automated AI vulnerability discovery is reversing the enterprise security costs that traditionally favour attackers. Bringing exploits to zero was once viewed as an unrealistic goal. The prevailing operational doctrine aimed to make attacks so expensive that only adversaries with functionally unlimited budgets could afford them, thereby disincentivising casual use. However, the recent evaluation by the […]\nThe post Reversing enterprise security costs with AI vulnerability discovery appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-22T15:45:14.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/"
+  },
+  {
+    "id": "y8erfelnx",
+    "title": "AI in law firms entering its closing summaries",
+    "summary": "In an interview with Artificial Lawyer, Paris-based AI-native consulting firm owner, Olivier Chaduteau, set out a three-part account of the current state of AI in the legal sector. At first, lawyers dismissed AI as irrelevant to expert work. In the second, organisations bought licences to LLMs to signal activity to partners and/or clients, but little […]\nThe post AI in law firms entering its closing summaries appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-22T13:51:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/"
+  },
+  {
+    "id": "w6uyzzuz3",
     "title": "The role of AI in modern forex bot development",
     "summary": "Artificial intelligence has become a defining force in financial markets. And currency trading is no exception. The rise of the AI-powered forex bot reflects a change toward automated systems capable of processing vast amounts of market data and identifying patterns beyond the reach of manual analysis. As global foreign exchange markets operate around the clock […]\nThe post The role of AI in modern forex bot development appeared first on AI News.",
     "category": "General AI",
     "date": "2026-04-22T07:34:01.000Z",
-    "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1200",
+    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
     "source_url": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/"
   },
   {
-    "id": "1mso9k6sq",
+    "id": "y9awbxy93",
     "title": "Snowflake expands its technical and mainstream AI platforms",
     "summary": "Snowflake is expanding its Snowflake Intelligence and Cortex Code offerings in the hope of bringing users deploying and developing artificial intelligence inside the Snowflake portfolio. Snowflake Intelligence is framed as a tool for generalised business users, while Cortex Code is destined for developers and technical teams’ desks. A press release from the company lists additional […]\nThe post Snowflake expands its technical and mainstream AI platforms appeared first on AI News.",
     "category": "General AI",
@@ -18,30 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/"
   },
   {
-    "id": "ssy97psp4",
+    "id": "z8zricfm4",
     "title": "Siemens introduces AI system for automation engineering",
     "summary": "Siemens has introduced the Eigen Engineering Agent, an AI system designed to plan and validate automation engineering tasks in operational environments. The system uses multi-step reasoning and self-correction to carry out tasks autonomously and operates directly inside engineering platforms, letting it to complete workflows from initial design through to validation. Autonomous engineering workflows The agent […]\nThe post Siemens introduces AI system for automation engineering appeared first on AI News.",
     "category": "General AI",
     "date": "2026-04-21T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
     "source_url": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/"
-  },
-  {
-    "id": "zic916tbd",
-    "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
-    "summary": "AI platform, Bobyard, has unveiled Bobyard 2.0, its latest platform update delivering accelerated takeoff workflows and a unified AI workbench, designed to keep pace with the estimators (those responsible for calculating project budgets) who use it every day throughout the construction and landscaping industry. By speeding up takeoff operations, a important part of estimating a […]\nThe post Bobyard 2.0 offers improved takeoffs and unified AI for estimators appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-20T13:15:51.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/"
-  },
-  {
-    "id": "ioy47hhvh",
-    "title": "How to prepare for and remediate an AI system incident",
-    "summary": "For all the possibilities AI gives us, there is always a chance of the technology malfunctioning or becoming compromised. In the event of an AI system crisis, new research from ISACA has found that the majority of organisations surveyed couldn’t explain how quickly they could stop an AI system emergency, or even report on what […]\nThe post How to prepare for and remediate an AI system incident appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-20T11:39:41.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/"
   }
 ]
