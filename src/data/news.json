@@ -1,47 +1,47 @@
 [
   {
-    "id": "cozq7rz8m",
+    "id": "g8ghh6j7m",
+    "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
+    "summary": "AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, something like the BNB price stops being a single figure and starts to look more like a stream that keeps changing. Cryptocurrency markets […]\nThe post How AI models use real-time cryptocurrency data to interpret market behaviour appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-24T07:47:32.000Z",
+    "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/"
+  },
+  {
+    "id": "u6y4tdhdl",
+    "title": "The billion-dollar startup with a different idea for AI",
+    "summary": "A billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI. But the founder of the startup in question – AMI Labs’ Yann LeCun – believes that the breed of technology we currently term AI (large language models) is not the way through […]\nThe post The billion-dollar startup with a different idea for AI appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-23T12:30:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/the-yann-lecun-model.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/"
+  },
+  {
+    "id": "olfh9lu6k",
+    "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+    "summary": "At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and software codesign, this architecture aims to deliver up to ten times lower […]\nThe post NVIDIA and Google infrastructure cuts AI inference costs appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-23T12:19:36.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/"
+  },
+  {
+    "id": "yeesj3dj4",
+    "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
+    "summary": "An autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters. The system is part of a broader category often referred to as “physical AI,” where artificial intelligence is applied to machines operating in real-world environments. The robot, named Ace, was designed to […]\nThe post Sony AI robot beats players as humanoid robot wins Beijing race appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-23T10:00:00.000Z",
+    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/"
+  },
+  {
+    "id": "rs1ewscsx",
     "title": "Reversing enterprise security costs with AI vulnerability discovery",
     "summary": "Automated AI vulnerability discovery is reversing the enterprise security costs that traditionally favour attackers. Bringing exploits to zero was once viewed as an unrealistic goal. The prevailing operational doctrine aimed to make attacks so expensive that only adversaries with functionally unlimited budgets could afford them, thereby disincentivising casual use. However, the recent evaluation by the […]\nThe post Reversing enterprise security costs with AI vulnerability discovery appeared first on AI News.",
     "category": "General AI",
     "date": "2026-04-22T15:45:14.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
     "source_url": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/"
-  },
-  {
-    "id": "y8erfelnx",
-    "title": "AI in law firms entering its closing summaries",
-    "summary": "In an interview with Artificial Lawyer, Paris-based AI-native consulting firm owner, Olivier Chaduteau, set out a three-part account of the current state of AI in the legal sector. At first, lawyers dismissed AI as irrelevant to expert work. In the second, organisations bought licences to LLMs to signal activity to partners and/or clients, but little […]\nThe post AI in law firms entering its closing summaries appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-22T13:51:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/"
-  },
-  {
-    "id": "w6uyzzuz3",
-    "title": "The role of AI in modern forex bot development",
-    "summary": "Artificial intelligence has become a defining force in financial markets. And currency trading is no exception. The rise of the AI-powered forex bot reflects a change toward automated systems capable of processing vast amounts of market data and identifying patterns beyond the reach of manual analysis. As global foreign exchange markets operate around the clock […]\nThe post The role of AI in modern forex bot development appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-22T07:34:01.000Z",
-    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/"
-  },
-  {
-    "id": "y9awbxy93",
-    "title": "Snowflake expands its technical and mainstream AI platforms",
-    "summary": "Snowflake is expanding its Snowflake Intelligence and Cortex Code offerings in the hope of bringing users deploying and developing artificial intelligence inside the Snowflake portfolio. Snowflake Intelligence is framed as a tool for generalised business users, while Cortex Code is destined for developers and technical teams’ desks. A press release from the company lists additional […]\nThe post Snowflake expands its technical and mainstream AI platforms appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-21T14:29:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/"
-  },
-  {
-    "id": "z8zricfm4",
-    "title": "Siemens introduces AI system for automation engineering",
-    "summary": "Siemens has introduced the Eigen Engineering Agent, an AI system designed to plan and validate automation engineering tasks in operational environments. The system uses multi-step reasoning and self-correction to carry out tasks autonomously and operates directly inside engineering platforms, letting it to complete workflows from initial design through to validation. Autonomous engineering workflows The agent […]\nThe post Siemens introduces AI system for automation engineering appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-21T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/"
   }
 ]
