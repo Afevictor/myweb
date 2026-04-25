@@ -1,15 +1,24 @@
 [
   {
-    "id": "g8ghh6j7m",
+    "id": "j76f7tm3u",
+    "title": "Why AI agents need interaction infrastructure",
+    "summary": "To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate. AI agents now populate corporate networks, reasoning through tasks and executing decisions with increasing autonomy. Yet, when these independent actors attempt to coordinate work, exchange context, or operate across varied cloud environments, the interaction framework degrades quickly. Human […]\nThe post Why AI agents need interaction infrastructure appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-24T16:24:17.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/"
+  },
+  {
+    "id": "3r8yd16b6",
     "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
     "summary": "AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, something like the BNB price stops being a single figure and starts to look more like a stream that keeps changing. Cryptocurrency markets […]\nThe post How AI models use real-time cryptocurrency data to interpret market behaviour appeared first on AI News.",
     "category": "General AI",
     "date": "2026-04-24T07:47:32.000Z",
-    "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1200",
+    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
     "source_url": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/"
   },
   {
-    "id": "u6y4tdhdl",
+    "id": "pgluglbtp",
     "title": "The billion-dollar startup with a different idea for AI",
     "summary": "A billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI. But the founder of the startup in question – AMI Labs’ Yann LeCun – believes that the breed of technology we currently term AI (large language models) is not the way through […]\nThe post The billion-dollar startup with a different idea for AI appeared first on AI News.",
     "category": "General AI",
@@ -18,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/"
   },
   {
-    "id": "olfh9lu6k",
+    "id": "6vyp6hm2b",
     "title": "NVIDIA and Google infrastructure cuts AI inference costs",
     "summary": "At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and software codesign, this architecture aims to deliver up to ten times lower […]\nThe post NVIDIA and Google infrastructure cuts AI inference costs appeared first on AI News.",
     "category": "General AI",
@@ -27,21 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/"
   },
   {
-    "id": "yeesj3dj4",
+    "id": "v7oyeic1v",
     "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
     "summary": "An autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters. The system is part of a broader category often referred to as “physical AI,” where artificial intelligence is applied to machines operating in real-world environments. The robot, named Ace, was designed to […]\nThe post Sony AI robot beats players as humanoid robot wins Beijing race appeared first on AI News.",
     "category": "General AI",
     "date": "2026-04-23T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
     "source_url": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/"
-  },
-  {
-    "id": "rs1ewscsx",
-    "title": "Reversing enterprise security costs with AI vulnerability discovery",
-    "summary": "Automated AI vulnerability discovery is reversing the enterprise security costs that traditionally favour attackers. Bringing exploits to zero was once viewed as an unrealistic goal. The prevailing operational doctrine aimed to make attacks so expensive that only adversaries with functionally unlimited budgets could afford them, thereby disincentivising casual use. However, the recent evaluation by the […]\nThe post Reversing enterprise security costs with AI vulnerability discovery appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-22T15:45:14.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/"
   }
 ]
