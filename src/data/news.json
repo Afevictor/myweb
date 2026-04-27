@@ -1,6 +1,6 @@
 [
   {
-    "id": "j76f7tm3u",
+    "id": "p03fdrf7j",
     "title": "Why AI agents need interaction infrastructure",
     "summary": "To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate. AI agents now populate corporate networks, reasoning through tasks and executing decisions with increasing autonomy. Yet, when these independent actors attempt to coordinate work, exchange context, or operate across varied cloud environments, the interaction framework degrades quickly. Human […]\nThe post Why AI agents need interaction infrastructure appeared first on AI News.",
     "category": "General AI",
@@ -9,7 +9,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/"
   },
   {
-    "id": "3r8yd16b6",
+    "id": "06t76kulz",
     "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
     "summary": "AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, something like the BNB price stops being a single figure and starts to look more like a stream that keeps changing. Cryptocurrency markets […]\nThe post How AI models use real-time cryptocurrency data to interpret market behaviour appeared first on AI News.",
     "category": "General AI",
@@ -18,7 +18,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/"
   },
   {
-    "id": "pgluglbtp",
+    "id": "yyk2xc24a",
     "title": "The billion-dollar startup with a different idea for AI",
     "summary": "A billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI. But the founder of the startup in question – AMI Labs’ Yann LeCun – believes that the breed of technology we currently term AI (large language models) is not the way through […]\nThe post The billion-dollar startup with a different idea for AI appeared first on AI News.",
     "category": "General AI",
@@ -27,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/"
   },
   {
-    "id": "6vyp6hm2b",
+    "id": "mqogyfogh",
     "title": "NVIDIA and Google infrastructure cuts AI inference costs",
     "summary": "At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and software codesign, this architecture aims to deliver up to ten times lower […]\nThe post NVIDIA and Google infrastructure cuts AI inference costs appeared first on AI News.",
     "category": "General AI",
@@ -36,7 +36,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/"
   },
   {
-    "id": "v7oyeic1v",
+    "id": "1j316m1n1",
     "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
     "summary": "An autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters. The system is part of a broader category often referred to as “physical AI,” where artificial intelligence is applied to machines operating in real-world environments. The robot, named Ace, was designed to […]\nThe post Sony AI robot beats players as humanoid robot wins Beijing race appeared first on AI News.",
     "category": "General AI",
