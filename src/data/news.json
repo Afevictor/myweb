@@ -1,6 +1,33 @@
 [
   {
-    "id": "p03fdrf7j",
+    "id": "a76m6a5gu",
+    "title": "Kakao Mobility details Level 4 autonomous driving roadmap for physical AI",
+    "summary": "Kakao Mobility has set out plans to develop Level 4 autonomous driving technologies in-house as part of its physical AI strategy. Kim Jin-kyu, vice president and head of Kakao Mobility’s Physical AI division, presented the roadmap at the 2026 World IT Show conference at COEX in Seoul. His session focused on autonomous driving services built […]\nThe post Kakao Mobility details Level 4 autonomous driving roadmap for physical AI appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-28T10:00:00.000Z",
+    "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/"
+  },
+  {
+    "id": "ebts51j0z",
+    "title": "Lightelligence’s 400% debut is a bet that AI’s next bottleneck is the optical interconnect",
+    "summary": "When a company with US$15.5 million in annual revenue debuts on a stock exchange and its market capitalisation briefly hits US$10 billion, the obvious question is: what do investors know that the financials don’t show yet? In Lightelligence’s case, the answer is optical interconnect and the growing conviction that conventional copper wiring between AI chips […]\nThe post Lightelligence’s 400% debut is a bet that AI’s next bottleneck is the optical interconnect appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-28T10:00:00.000Z",
+    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/lightelligence-ipo-optical-interconnect-ai-infrastructure/"
+  },
+  {
+    "id": "p1fckcbg0",
+    "title": "Google warns malicious web pages are poisoning AI agents",
+    "summary": "Public web pages are actively hijacking enterprise AI agents via indirect prompt injections, Google researchers warn. Security teams scanning the Common Crawl repository (a massive database of billions of public web pages) have uncovered a growing trend of digital booby traps. Website administrators and malicious actors are embedding hidden instructions within standard HTML. These invisible […]\nThe post Google warns malicious web pages are poisoning AI agents appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-04-27T11:12:52.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/"
+  },
+  {
+    "id": "brwm4zv6t",
     "title": "Why AI agents need interaction infrastructure",
     "summary": "To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate. AI agents now populate corporate networks, reasoning through tasks and executing decisions with increasing autonomy. Yet, when these independent actors attempt to coordinate work, exchange context, or operate across varied cloud environments, the interaction framework degrades quickly. Human […]\nThe post Why AI agents need interaction infrastructure appeared first on AI News.",
     "category": "General AI",
@@ -9,39 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/"
   },
   {
-    "id": "06t76kulz",
+    "id": "36dc66ies",
     "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
     "summary": "AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, something like the BNB price stops being a single figure and starts to look more like a stream that keeps changing. Cryptocurrency markets […]\nThe post How AI models use real-time cryptocurrency data to interpret market behaviour appeared first on AI News.",
     "category": "General AI",
     "date": "2026-04-24T07:47:32.000Z",
-    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/"
-  },
-  {
-    "id": "yyk2xc24a",
-    "title": "The billion-dollar startup with a different idea for AI",
-    "summary": "A billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI. But the founder of the startup in question – AMI Labs’ Yann LeCun – believes that the breed of technology we currently term AI (large language models) is not the way through […]\nThe post The billion-dollar startup with a different idea for AI appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-23T12:30:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/the-yann-lecun-model.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/"
-  },
-  {
-    "id": "mqogyfogh",
-    "title": "NVIDIA and Google infrastructure cuts AI inference costs",
-    "summary": "At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and software codesign, this architecture aims to deliver up to ten times lower […]\nThe post NVIDIA and Google infrastructure cuts AI inference costs appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-23T12:19:36.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/"
-  },
-  {
-    "id": "1j316m1n1",
-    "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
-    "summary": "An autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters. The system is part of a broader category often referred to as “physical AI,” where artificial intelligence is applied to machines operating in real-world environments. The robot, named Ace, was designed to […]\nThe post Sony AI robot beats players as humanoid robot wins Beijing race appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-04-23T10:00:00.000Z",
     "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/"
+    "source_url": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/"
   }
 ]
