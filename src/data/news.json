@@ -1,47 +1,47 @@
 [
   {
-    "id": "5a0bmrikv",
+    "id": "o3awdiq3v",
+    "title": "AI helping ease the UK’s NHS burden",
+    "summary": "The words “pressure” and “NHS” go hand in hand in the UK and unfortunately there is no sign of a reduction in the strain the institution suffers any time soon. As NHS England continues the struggle to reduce its 7.25 million waiting list, new policies are being introduced to move care away from hospitals and […]\nThe post AI helping ease the UK’s NHS burden appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-05-07T09:35:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/"
+  },
+  {
+    "id": "8dsowggkw",
+    "title": "HP and the art of AI and data for the enterprise",
+    "summary": "Ahead of the AI & Big Data Expo at the San Jose McEnery Convention Center, May 18-19, we spoke to Jerome Gabryszewski, the company’s AI & Data Science Business Development Manager about AI, processing data for AI ingestion, and local versus cloud compute. The technology media is fond of quoting that data is ‘the new […]\nThe post HP and the art of AI and data for the enterprise appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-05-06T15:14:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Jerome_Gabryszewski-300x294.webp",
+    "source_url": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/"
+  },
+  {
+    "id": "yrn1n0cdt",
+    "title": "US government increases AI suppliers and rethinks Anthropic’s role",
+    "summary": "The US administration has added four more AI companies to its roster of favoured suppliers, with the Pentagon signing agreements with Microsoft, Reflection AI (which has yet to release a publicly-available model), Amazon, and Nvidia that mean their products can be used on classified operations. The companies join OpenAI, xAI, and Google as companies that […]\nThe post US government increases AI suppliers and rethinks Anthropic’s role appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-05-06T12:23:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/"
+  },
+  {
+    "id": "q1h50zcuz",
     "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
     "summary": "Google is testing Remy, a new AI personal agent for Gemini, according to Business Insider. The tool is designed to take actions for users in work and daily tasks. Remy is being tested in a staff-only version of the Gemini app. The report said it reviewed an internal document and spoke with two people familiar […]\nThe post Google tests Remy AI agent for Gemini as focus turns to user control appeared first on AI News.",
     "category": "General AI",
     "date": "2026-05-06T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1200",
+    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
     "source_url": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/"
   },
   {
-    "id": "xqew4c0oo",
+    "id": "zr6389duy",
     "title": "Physical AI raises governance questions for autonomous systems",
     "summary": "Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industrial robotics already provides a large base for that discussion. […]\nThe post Physical AI raises governance questions for autonomous systems appeared first on AI News.",
     "category": "General AI",
     "date": "2026-05-04T11:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
     "source_url": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/"
-  },
-  {
-    "id": "w3rs9dmx8",
-    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
-    "summary": "Two weeks ago at Google Cloud Next ’26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it made agentic AI governance a native product feature, not an afterthought. The centrepiece announcement was the Gemini Enterprise Agent Platform, pitched as the successor to Vertex AI […]\nThe post Google made agentic AI governance a product. Enterprises still have to catch up. appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-05-04T10:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/"
-  },
-  {
-    "id": "v733ewsv2",
-    "title": "SAP: How enterprise AI governance secures profit margins",
-    "summary": "According to SAP, enterprise AI governance secures profit margins by replacing statistical guesses with deterministic control. Ask a consumer-grade model to count the words in a document, and it will often miss the mark by ten percent. Manos Raptopoulos, Global President of Customer Success Europe, APAC, Middle East & Africa at SAP, observes that the […]\nThe post SAP: How enterprise AI governance secures profit margins appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-05-01T13:05:37.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/"
-  },
-  {
-    "id": "9awbfc9fj",
-    "title": "Per-token AI charges come to GitHub Copilot",
-    "summary": "As of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model. The model that’s seeing the shutters closed on it is, or rather was, simple to understand and use. Users were given a set number of ‘Premium Requests’ according to […]\nThe post Per-token AI charges come to GitHub Copilot appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-05-01T11:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/"
   }
 ]
