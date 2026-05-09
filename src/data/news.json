@@ -1,6 +1,15 @@
 [
   {
-    "id": "3ir5mh98h",
+    "id": "6qt7c2irv",
+    "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
+    "summary": "RingCentral has expanded its AI Receptionist product with new links to Shopify, Calendly and WhatsApp, as the communications software company tries to push the product beyond basic call answering and into more routine customer service tasks. The company said AI Receptionist, known as AIR, can now handle some order enquiries through Shopify, arrange appointments through […]\nThe post RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-05-08T14:54:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/"
+  },
+  {
+    "id": "qthrnkztm",
     "title": "AI helping ease the UK’s NHS burden",
     "summary": "The words “pressure” and “NHS” go hand in hand in the UK and unfortunately there is no sign of a reduction in the strain the institution suffers any time soon. As NHS England continues the struggle to reduce its 7.25 million waiting list, new policies are being introduced to move care away from hospitals and […]\nThe post AI helping ease the UK’s NHS burden appeared first on AI News.",
     "category": "General AI",
@@ -9,7 +18,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/"
   },
   {
-    "id": "76zrhqdt4",
+    "id": "ljbyxk0cw",
     "title": "HP and the art of AI and data for the enterprise",
     "summary": "Ahead of the AI & Big Data Expo at the San Jose McEnery Convention Center, May 18-19, we spoke to Jerome Gabryszewski, the company’s AI & Data Science Business Development Manager about AI, processing data for AI ingestion, and local versus cloud compute. The technology media is fond of quoting that data is ‘the new […]\nThe post HP and the art of AI and data for the enterprise appeared first on AI News.",
     "category": "General AI",
@@ -18,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/"
   },
   {
-    "id": "6bre4oedh",
+    "id": "umlv4030p",
     "title": "US government increases AI suppliers and rethinks Anthropic’s role",
     "summary": "The US administration has added four more AI companies to its roster of favoured suppliers, with the Pentagon signing agreements with Microsoft, Reflection AI (which has yet to release a publicly-available model), Amazon, and Nvidia that mean their products can be used on classified operations. The companies join OpenAI, xAI, and Google as companies that […]\nThe post US government increases AI suppliers and rethinks Anthropic’s role appeared first on AI News.",
     "category": "General AI",
@@ -27,21 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/"
   },
   {
-    "id": "gadoeuqa5",
+    "id": "occb5r3d1",
     "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
     "summary": "Google is testing Remy, a new AI personal agent for Gemini, according to Business Insider. The tool is designed to take actions for users in work and daily tasks. Remy is being tested in a staff-only version of the Gemini app. The report said it reviewed an internal document and spoke with two people familiar […]\nThe post Google tests Remy AI agent for Gemini as focus turns to user control appeared first on AI News.",
     "category": "General AI",
     "date": "2026-05-06T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/"
-  },
-  {
-    "id": "x5heou3h7",
-    "title": "Physical AI raises governance questions for autonomous systems",
-    "summary": "Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industrial robotics already provides a large base for that discussion. […]\nThe post Physical AI raises governance questions for autonomous systems appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-05-04T11:00:00.000Z",
     "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/"
+    "source_url": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/"
   }
 ]
