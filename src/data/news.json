@@ -1,6 +1,24 @@
 [
   {
-    "id": "7mx5zf8hg",
+    "id": "folw4h7rf",
+    "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+    "summary": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack, not just filling a gap left by US export controls. The Zhenwu M890, developed by Alibaba’s semiconductor subsidiary […]\nThe post Alibaba is designing AI chips around agents, and that changes what the race is actually about appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-05-20T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/"
+  },
+  {
+    "id": "hgk39cm2r",
+    "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
+    "summary": "Day two of TechEx North America has been more of a deeper, critical examination of AI in the enterprise, but with a optimistic bent. The AI and Big Data programme opened with reference to what was termed the “AI graveyard” – that is, AI projects that seem to perform well in pilot, but don’t seem […]\nThe post Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-05-19T19:18:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/clankers-300x284.jpeg",
+    "source_url": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/"
+  },
+  {
+    "id": "m6t95p7i1",
     "title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
     "summary": "President Trump flew to Beijing, brought Jensen Huang along at the last minute, and left two days later, telling reporters that “something could happen” on chip exports. Nothing did. Not a single Nvidia H200 has shipped to China since Trump first authorised the sales in December 2025, and US Trade Representative Jamieson Greer told Bloomberg that semiconductor controls were […]\nThe post The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected appeared first on AI News.",
     "category": "General AI",
@@ -9,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/"
   },
   {
-    "id": "8seq3esi8",
+    "id": "mxat0lz6d",
     "title": "AI is a matter of power, infrastructure and security: TechEx North America",
     "summary": "Although visitors to an event like TechEx North America will always want to see the cutting edge front and centre stage, the nuance and detail brought to the show by the speakers and exhibitors mean that it’s sometimes the smaller considerations that need to play big – at least, in the minds of enterprise decision-makers. […]\nThe post AI is a matter of power, infrastructure and security: TechEx North America appeared first on AI News.",
     "category": "General AI",
@@ -18,30 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/"
   },
   {
-    "id": "r6l2l02np",
+    "id": "f8k3b2hoy",
     "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
     "summary": "Amazon has introduced Alexa for Shopping, combining its Rufus shopping chatbot with Alexa+ across its app, website, and Echo Show devices. The assistant can answer product questions, compare items, track prices, and support shopping reminders. It can also handle scheduled shopping actions and eligible automated purchases. The company said Alexa for Shopping combines Rufus’ product […]\nThe post Amazon launches Alexa for Shopping as Rufus moves behind the scenes appeared first on AI News.",
     "category": "General AI",
     "date": "2026-05-18T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/"
-  },
-  {
-    "id": "4tq1icdbh",
-    "title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
-    "summary": "Enterprise leaders must progress past generative applications and scale “autonomous intelligence” to capture real growth. Generating text or summarising internal communications offers localised productivity improvements, yet these abilities rarely alter the core cost or revenue structure of a large organisation. Enterprises are now focused on deploying systems capable of independent execution. Leaders are demanding applications […]\nThe post Deloitte: Scale ‘autonomous intelligence’ for real growth appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-05-15T15:02:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/prakul-sharma-2.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/"
-  },
-  {
-    "id": "czmb2yqov",
-    "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
-    "summary": "British technology company Humanoid will deploy humanoid robots at factories operated by German industrial supplier Schaeffler, Reuters reported. The two companies’ agreement covers an estimated 1,000 to 2,000 robots in Schaeffler’s global manufacturing sites by 2032, according to a Humanoid spokesperson. The companies have not disclosed the contract value. The first deployment is scheduled between […]\nThe post Physical AI moves closer to factory floors as companies test humanoid robots appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-05-14T10:00:00.000Z",
     "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/"
+    "source_url": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/"
   }
 ]
