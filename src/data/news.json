@@ -1,6 +1,33 @@
 [
   {
-    "id": "qh50897ib",
+    "id": "iz4jesi3i",
+    "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
+    "summary": "OpenAI will open its first Applied AI Lab outside the US in Singapore. The lab is part of a new partnership with the Ministry of Digital Development and Information. The initiative, called OpenAI for Singapore, was announced at the ATx Summit and is backed by a commitment of more than S$300 million. The lab will […]\nThe post OpenAI opens Singapore AI lab as IMDA updates AI framework appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-05-22T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/"
+  },
+  {
+    "id": "6871prwmb",
+    "title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
+    "summary": "Every major economy is staring at the same problem right now. Artificial intelligence is consuming electricity at a pace that grids were never designed to handle. In the US, capacity market prices in PJM, the country’s largest grid operator, have risen more than tenfold in two years, with data-centre growth identified as a primary driver. […]\nThe post China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-05-22T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/"
+  },
+  {
+    "id": "0pnq8s4ka",
+    "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+    "summary": "The ceremony was scheduled. The CEOs were on the guest list. And then it wasn’t happening. On Thursday, US President Donald Trump scrapped a planned AI executive order, which had already been delayed multiple times, citing concerns that it might erode America’s competitive edge over China. “We’re leading China, we’re leading everybody, and I don’t […]\nThe post Musk and Zuckerberg convinced Trump to scrap AI executive order appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-05-22T09:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/"
+  },
+  {
+    "id": "0to4ek1oh",
     "title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
     "summary": "The Nvidia Vera chip is rarely the headline when earnings beat estimates, but it should be. When Nvidia reported Q1 revenue of US$81.62 billion on Wednesday, beating analyst estimates of US$78.86 billion, and guided Q2 at US$91 billion–well above Wall Street’s US$86.84 billion forecast–the numbers did what Nvidia numbers always do: dominate the room.  But […]\nThe post Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook appeared first on AI News.",
     "category": "General AI",
@@ -9,39 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/"
   },
   {
-    "id": "74f8zv4qw",
+    "id": "nqe4mcsup",
     "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
     "summary": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack rather than just filling a gap left by US export controls. The Zhenwu M890, developed by Alibaba’s semiconductor […]\nThe post Alibaba is designing AI chips around agents, and that changes what the race is actually about appeared first on AI News.",
     "category": "General AI",
     "date": "2026-05-20T10:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
     "source_url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/"
-  },
-  {
-    "id": "7zpiw7nn6",
-    "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
-    "summary": "Day two of TechEx North America has been more of a deeper, critical examination of AI in the enterprise, but with a optimistic bent. The AI and Big Data programme opened with reference to what was termed the “AI graveyard” – that is, AI projects that seem to perform well in pilot, but don’t seem […]\nThe post Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-05-19T19:18:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/clankers-300x284.jpeg",
-    "source_url": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/"
-  },
-  {
-    "id": "k6p3xsynu",
-    "title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
-    "summary": "President Trump flew to Beijing, brought Jensen Huang along at the last minute, and left two days later, telling reporters that “something could happen” on chip exports. Nothing did. Not a single Nvidia H200 has shipped to China since Trump first authorised the sales in December 2025, and US Trade Representative Jamieson Greer told Bloomberg that semiconductor controls were […]\nThe post The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-05-19T10:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/"
-  },
-  {
-    "id": "g39dh4638",
-    "title": "AI is a matter of power, infrastructure and security: TechEx North America",
-    "summary": "Although visitors to an event like TechEx North America will always want to see the cutting edge front and centre stage, the nuance and detail brought to the show by the speakers and exhibitors mean that it’s sometimes the smaller considerations that need to play big – at least, in the minds of enterprise decision-makers. […]\nThe post AI is a matter of power, infrastructure and security: TechEx North America appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-05-19T01:36:26.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/techex-insert.jpeg",
-    "source_url": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/"
   }
 ]
