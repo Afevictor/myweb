@@ -1,6 +1,33 @@
 [
   {
-    "id": "fcj93mqv0",
+    "id": "2k1fkrix5",
+    "title": "NBA plans AI system for automatic out-of-bounds calls",
+    "summary": "NBA Commissioner Adam Silver said the league plans to introduce an automated system for certain officiating decisions, including out-of-bounds calls. The system would use AI and cameras placed around the court to determine possession. Silver compared the approach to Hawk-Eye, the tracking technology used for line calls in tennis. Disputed call preceded Silver’s comments Silver’s […]\nThe post NBA plans AI system for automatic out-of-bounds calls appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-05-28T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/"
+  },
+  {
+    "id": "6k25494vx",
+    "title": "Google folds Display Ads into AI-first Demand Gen platform",
+    "summary": "Google is folding Display Ads into its AI-powered Demand Gen platform, marking the end of a long-standing digital advertising model. The Google Display Network (GDN) has been a staple of the open internet for almost twenty years. Marketers previously relied on its predictable framework to target placements, bid on audiences, and A/B test static creative […]\nThe post Google folds Display Ads into AI-first Demand Gen platform appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-05-27T13:12:06.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/"
+  },
+  {
+    "id": "ce3953gik",
+    "title": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
+    "summary": "The foreign exchange market is really moving away from pure intuition and toward a space shaped by speed, data and precision. By using automated systems in your routine, you can approach volatility with a level of discipline that manual trading often struggles to maintain. Every entry and exit can be based on clear rules, not […]\nThe post Exploring the Benefits of AI Bots for Forex Trading in Forex Markets appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-05-27T12:38:44.000Z",
+    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/"
+  },
+  {
+    "id": "4rw6bvxsx",
     "title": "Autonomous AI systems test governance in physical environments",
     "summary": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments. Most existing AI governance frameworks have focused on online harms and model outputs, including bias, misinformation, and harmful content. Embodied […]\nThe post Autonomous AI systems test governance in physical environments appeared first on AI News.",
     "category": "General AI",
@@ -9,39 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/"
   },
   {
-    "id": "mflppidsj",
+    "id": "csazva3yu",
     "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
     "summary": "OpenAI will open its first Applied AI Lab outside the US in Singapore. The lab is part of a new partnership with the Ministry of Digital Development and Information. The initiative, called OpenAI for Singapore, was announced at the ATx Summit and is backed by a commitment of more than S$300 million. The lab will […]\nThe post OpenAI opens Singapore AI lab as IMDA updates AI framework appeared first on AI News.",
     "category": "General AI",
     "date": "2026-05-22T10:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
     "source_url": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/"
-  },
-  {
-    "id": "eacc5b56l",
-    "title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
-    "summary": "Every major economy is staring at the same problem right now. Artificial intelligence is consuming electricity at a pace that grids were never designed to handle. In the US, capacity market prices in PJM, the country’s largest grid operator, have risen more than tenfold in two years, with data-centre growth identified as a primary driver. […]\nThe post China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-05-22T10:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/"
-  },
-  {
-    "id": "e97pay1a7",
-    "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
-    "summary": "The ceremony was scheduled. The CEOs were on the guest list. And then it wasn’t happening. On Thursday, US President Donald Trump scrapped a planned AI executive order, which had already been delayed multiple times, citing concerns that it might erode America’s competitive edge over China. “We’re leading China, we’re leading everybody, and I don’t […]\nThe post Musk and Zuckerberg convinced Trump to scrap AI executive order appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-05-22T09:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/"
-  },
-  {
-    "id": "gevjshz97",
-    "title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
-    "summary": "The Nvidia Vera chip is rarely the headline when earnings beat estimates, but it should be. When Nvidia reported Q1 revenue of US$81.62 billion on Wednesday, beating analyst estimates of US$78.86 billion, and guided Q2 at US$91 billion–well above Wall Street’s US$86.84 billion forecast–the numbers did what Nvidia numbers always do: dominate the room.  But […]\nThe post Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-05-21T08:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/"
   }
 ]
