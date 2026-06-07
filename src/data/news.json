@@ -1,6 +1,15 @@
 [
   {
-    "id": "4upen9j00",
+    "id": "zgoqip6xw",
+    "title": "How C3 AI agents will automate predictive maintenance for Shell",
+    "summary": "Shell will use agents from C3 AI to shift from basic anomaly detection towards fully-automated predictive maintenance. The global energy giant is building on their current use of the C3 AI Reliability Suite, which already keeps tabs on more than 30,000 crucial pieces of equipment across upstream and downstream operations. Shell now intends to lean […]\nThe post How C3 AI agents will automate predictive maintenance for Shell appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-06-05T11:34:09.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/"
+  },
+  {
+    "id": "pxap59hjr",
     "title": "Meta Business Agent drives AI-powered conversational commerce",
     "summary": "Meta has launched Business Agent to automate conversational commerce workflows directly inside its messaging applications. The software allows global retail brands to execute transactions and field support tickets without human intervention. Deploying this architecture places agentic AI directly at the core of social commerce. Meta integrated these workflows natively into Instagram, Messenger, and soon WhatsApp. […]\nThe post Meta Business Agent drives AI-powered conversational commerce appeared first on AI News.",
     "category": "General AI",
@@ -9,7 +18,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/"
   },
   {
-    "id": "rzxmbaw4f",
+    "id": "wi3spce8i",
     "title": "Scout from M’Soft is the agentic Autopilot that works across M365",
     "summary": "Microsoft has announced the wider testing of its new Autopilot feature at the Microsoft Build event this week, backed by a post on the company’s’ website. Autopilots are described as a new category of agents that can work autonomously on a user’s behalf. Microsoft says each Autopilot has its own identity, and so multiple agents […]\nThe post Scout from M’Soft is the agentic Autopilot that works across M365 appeared first on AI News.",
     "category": "General AI",
@@ -18,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/"
   },
   {
-    "id": "poh5zym1u",
+    "id": "iutmfa63c",
     "title": "Amazon brings AI shopping assistant to retailers with Kate Spade",
     "summary": "Amazon is offering its AI shopping technology to other retailers through a new Agentic Shopping Assistant built on AWS, with Kate Spade among the first brands to use it. The service allows retailers to build AI shopping assistants for their own websites and apps. Amazon said each deployment can be customised to a retailer’s catalogue, […]\nThe post Amazon brings AI shopping assistant to retailers with Kate Spade appeared first on AI News.",
     "category": "General AI",
@@ -27,21 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/"
   },
   {
-    "id": "11h39qxja",
+    "id": "gy052vfgv",
     "title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
     "summary": "Standardising grid data through SAP S/4HANA allows E.ON to modernise infrastructure and execute AI deployments. The utility giant manages infrastructure across three distinct domains: energy grids, customer solutions, and energy infrastructure solutions. Maintaining operations across this scope requires continuous capital expenditure on IT hardware and software maintenance. Leadership initially questioned the business case supporting large-scale […]\nThe post How E.ON uses SAP S/4HANA to modernise the grid with AI appeared first on AI News.",
     "category": "General AI",
     "date": "2026-06-03T12:29:42.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
     "source_url": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/"
-  },
-  {
-    "id": "hvtsv2gh8",
-    "title": "Walmart’s AI workflows meet the realities of the balance sheet",
-    "summary": "Walmart has reportedly begun limiting employees’ use of an internal AI assistant called Code Puppy after demands placed on the LLM backing the tool were higher than expected. Employees of Walmart were encouraged to use Code Puppy without any stricture or stipulations as to the limits of use, but Walmart is now assigning employees a […]\nThe post Walmart’s AI workflows meet the realities of the balance sheet appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-03T09:33:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/"
   }
 ]
