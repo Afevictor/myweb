@@ -1,6 +1,33 @@
 [
   {
-    "id": "aaweqw27c",
+    "id": "8att67qxs",
+    "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
+    "summary": "The European Union has published its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards. The European Commission released the final Code on 10 June, setting out practical steps for the businesses that build and use generative AI to mark […]\nThe post EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-06-16T10:00:00.000Z",
+    "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/"
+  },
+  {
+    "id": "2bz0hfftz",
+    "title": "AI Red Teaming Explained: What It Is and Why You Need It",
+    "summary": "With AI adoption accelerating, testing systems under adversarial conditions has become increasingly important. It enables organisations to identify vulnerabilities before deployment and strengthen overall system safety. Explore what AI red teaming is, why it matters and the leading companies offering AI red teaming consulting services. What Is AI Red Teaming? AI red teaming tests artificial […]\nThe post AI Red Teaming Explained: What It Is and Why You Need It appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-06-16T08:06:43.000Z",
+    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/"
+  },
+  {
+    "id": "sqokt0ziu",
+    "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
+    "summary": "For years, enterprise content management was largely a publication tool. How do you get the right content, in the right format, to the right channel, without breaking workflows that span dozens of markets and hundreds of contributors? The answer was usually a combination of manual processes, siloed systems, and large coordination teams that grew historically […]\nThe post How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-06-16T07:49:07.000Z",
+    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/"
+  },
+  {
+    "id": "twkmv3xyq",
     "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
     "summary": "Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built specifically for it. What HarmonyOS 7 actually changes The headline change is […]\nThe post HarmonyOS 7 steps into the AI gap Apple left open in China appeared first on AI News.",
     "category": "General AI",
@@ -9,39 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/"
   },
   {
-    "id": "wi3wcqhi6",
+    "id": "tuhgrk7q5",
     "title": "Accenture: Consumers show growing trust in AI shopping agents",
     "summary": "Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company’s 2026 Consumer Pulse Research, based on a survey of 25,590 consumers across 16 countries, found that 74% of respondents would trust a personal AI agent more than their best friend to make a […]\nThe post Accenture: Consumers show growing trust in AI shopping agents appeared first on AI News.",
     "category": "General AI",
     "date": "2026-06-15T10:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
     "source_url": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/"
-  },
-  {
-    "id": "9hqbwk1d5",
-    "title": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
-    "summary": "Anthropic export controls turned an abstract policy fear into a live one last week: as of June 13, 2026, one US government directive took the company’s two most powerful AI models offline for users everywhere, including, briefly, Anthropic’s own foreign-born employees, and set off alarm bells across Europe and Canada about who really controls the […]\nThe post The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-15T08:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/"
-  },
-  {
-    "id": "1awlhylhg",
-    "title": "Coinbase for Agents: Automating portfolio trading with AI",
-    "summary": "Coinbase for Agents connects AI to financial execution channels to automate trading and payments directly from user portfolios. Large language models process vast quantities of data but lack direct integration with active financial portfolios. Individuals frequently employ these models to evaluate market developments or research investment opportunities. These software tools possess the capacity for complex […]\nThe post Coinbase for Agents: Automating portfolio trading with AI appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-12T15:34:23.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/"
-  },
-  {
-    "id": "olh4awova",
-    "title": "Visa ChatGPT integration enables AI agent retail purchasing",
-    "summary": "Visa has linked its payment infrastructure to ChatGPT, enabling AI agents to recommend retail products and execute financial transactions. The deployment removes human intervention from the final stages of the retail funnel. Autonomous agents will now process user prompts, evaluate merchant catalogues, and complete the checkout process using Visa’s payment rails at any supporting merchant. […]\nThe post Visa ChatGPT integration enables AI agent retail purchasing appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-11T11:08:17.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/"
   }
 ]
