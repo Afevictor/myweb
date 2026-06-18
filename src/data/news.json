@@ -1,6 +1,24 @@
 [
   {
-    "id": "gsxiddf1h",
+    "id": "yxyee6pzh",
+    "title": "HSBC expands AI banking partnership with Google Cloud",
+    "summary": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial crime risk management, and internal decision support. HSBC will work with Google Cloud and Google DeepMind engineering teams on AI […]\nThe post HSBC expands AI banking partnership with Google Cloud appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-06-18T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/"
+  },
+  {
+    "id": "m21g5sf47",
+    "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
+    "summary": "Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country’s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds. The arrangement, detailed this week by Bloomberg, hands Microsoft a position no other American AI vendor holds: […]\nThe post Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t. appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-06-18T09:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/"
+  },
+  {
+    "id": "4r8k5nz8g",
     "title": "Google Cloud generative AI automates council planning operations",
     "summary": "Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data that delay infrastructure development. The UK central government established a target to construct 1.5 million new homes by 2029. Local planning authorities encounter administrative backlogs caused by dense paperwork, delaying […]\nThe post Google Cloud generative AI automates council planning operations appeared first on AI News.",
     "category": "General AI",
@@ -9,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/"
   },
   {
-    "id": "ocp36uzf1",
+    "id": "6334k9im7",
     "title": "Insurers pivot AI strategy toward core risk underwriting",
     "summary": "AI investments by insurers are now expected to generate tangible business value beyond mere efficiency. According to findings in the 2026 Evident AI Index, insurers are now embedding AI technologies into workflows that directly influence underwriting discipline and capital allocation. Christian Preece, Insurance Director at Evident, says: “For years, insurers have competed on AI ambition, […]\nThe post Insurers pivot AI strategy toward core risk underwriting appeared first on AI News.",
     "category": "General AI",
@@ -18,30 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/"
   },
   {
-    "id": "vw6odnwfe",
+    "id": "fetav8mjf",
     "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
     "summary": "The European Union has published its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards. The European Commission released the final Code on 10 June, setting out practical steps for the businesses that build and use generative AI to mark […]\nThe post EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline appeared first on AI News.",
     "category": "General AI",
     "date": "2026-06-16T10:00:00.000Z",
-    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/"
-  },
-  {
-    "id": "ap5qsv3h0",
-    "title": "AI Red Teaming Explained: What It Is and Why You Need It",
-    "summary": "With AI adoption accelerating, testing systems under adversarial conditions has become increasingly important. It enables organisations to identify vulnerabilities before deployment and strengthen overall system safety. Explore what AI red teaming is, why it matters and the leading companies offering AI red teaming consulting services. What Is AI Red Teaming? AI red teaming tests artificial […]\nThe post AI Red Teaming Explained: What It Is and Why You Need It appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-16T08:06:43.000Z",
-    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/"
-  },
-  {
-    "id": "opqtd6m5q",
-    "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
-    "summary": "For years, enterprise content management was largely a publication tool. How do you get the right content, in the right format, to the right channel, without breaking workflows that span dozens of markets and hundreds of contributors? The answer was usually a combination of manual processes, siloed systems, and large coordination teams that grew historically […]\nThe post How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-16T07:49:07.000Z",
     "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/"
+    "source_url": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/"
   }
 ]
