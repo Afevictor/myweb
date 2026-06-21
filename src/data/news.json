@@ -1,15 +1,24 @@
 [
   {
-    "id": "29b7ext3c",
+    "id": "7yj8pw8ug",
+    "title": "SAP and Google Cloud deploy agentic commerce architecture",
+    "summary": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals fewer than two in five companies share customer data across customer experience (37%) or CRM (39%) […]\nThe post SAP and Google Cloud deploy agentic commerce architecture appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-06-19T14:02:20.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/"
+  },
+  {
+    "id": "md9p9jkjb",
     "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
     "summary": "Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-a-service provider, e2e-assure, today announced the launch of the updated Cumulo, the U.K.’s only sovereign, AI-first, IT/OT connected SOC platform, designed to help organisations defend […]\nThe post e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments appeared first on AI News.",
     "category": "General AI",
     "date": "2026-06-19T09:57:55.000Z",
-    "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1200",
+    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
     "source_url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/"
   },
   {
-    "id": "867oyt0ho",
+    "id": "yhow2w24m",
     "title": "Computer vision deployments drive retail productivity gains",
     "summary": "Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry billions. A study authored by Coresight Research – in partnership with technology providers Simbe and RELEX Solutions – calculates the exact cost of […]\nThe post Computer vision deployments drive retail productivity gains appeared first on AI News.",
     "category": "General AI",
@@ -18,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/"
   },
   {
-    "id": "ryybvln1t",
+    "id": "ew9raa293",
     "title": "HSBC expands AI banking partnership with Google Cloud",
     "summary": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial crime risk management, and internal decision support. HSBC will work with Google Cloud and Google DeepMind engineering teams on AI […]\nThe post HSBC expands AI banking partnership with Google Cloud appeared first on AI News.",
     "category": "General AI",
@@ -27,21 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/"
   },
   {
-    "id": "vnmd8nbeb",
+    "id": "yf8ipitbr",
     "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
     "summary": "Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country’s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds. The arrangement, detailed this week by Bloomberg, hands Microsoft a position no other American AI vendor holds: […]\nThe post Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t. appeared first on AI News.",
     "category": "General AI",
     "date": "2026-06-18T09:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
     "source_url": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/"
-  },
-  {
-    "id": "kkknnqzwj",
-    "title": "Google Cloud generative AI automates council planning operations",
-    "summary": "Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data that delay infrastructure development. The UK central government established a target to construct 1.5 million new homes by 2029. Local planning authorities encounter administrative backlogs caused by dense paperwork, delaying […]\nThe post Google Cloud generative AI automates council planning operations appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-17T10:59:42.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/"
   }
 ]
