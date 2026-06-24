@@ -1,47 +1,47 @@
 [
   {
-    "id": "7yj8pw8ug",
-    "title": "SAP and Google Cloud deploy agentic commerce architecture",
-    "summary": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals fewer than two in five companies share customer data across customer experience (37%) or CRM (39%) […]\nThe post SAP and Google Cloud deploy agentic commerce architecture appeared first on AI News.",
+    "id": "z70sbgf86",
+    "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+    "summary": "Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work. According to OpenAI, the deployment covers all Samsung Electronics employees in Korea and all Device eXperience employees worldwide. The DX division includes smartphones, consumer electronics, and home appliances. Samsung plans to use […]\nThe post Samsung opens ChatGPT Enterprise and Codex access after AI restrictions appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-06-19T14:02:20.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/"
-  },
-  {
-    "id": "md9p9jkjb",
-    "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
-    "summary": "Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-a-service provider, e2e-assure, today announced the launch of the updated Cumulo, the U.K.’s only sovereign, AI-first, IT/OT connected SOC platform, designed to help organisations defend […]\nThe post e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-19T09:57:55.000Z",
-    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/"
-  },
-  {
-    "id": "yhow2w24m",
-    "title": "Computer vision deployments drive retail productivity gains",
-    "summary": "Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry billions. A study authored by Coresight Research – in partnership with technology providers Simbe and RELEX Solutions – calculates the exact cost of […]\nThe post Computer vision deployments drive retail productivity gains appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-18T15:57:46.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/"
-  },
-  {
-    "id": "ew9raa293",
-    "title": "HSBC expands AI banking partnership with Google Cloud",
-    "summary": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial crime risk management, and internal decision support. HSBC will work with Google Cloud and Google DeepMind engineering teams on AI […]\nThe post HSBC expands AI banking partnership with Google Cloud appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-18T10:00:00.000Z",
+    "date": "2026-06-24T10:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/"
+    "source_url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/"
   },
   {
-    "id": "yf8ipitbr",
-    "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
-    "summary": "Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country’s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds. The arrangement, detailed this week by Bloomberg, hands Microsoft a position no other American AI vendor holds: […]\nThe post Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t. appeared first on AI News.",
+    "id": "8uz50o5ck",
+    "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
+    "summary": "Anthropic launched a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group threads by typing @Claude.  The integration allows any team member in the channel to delegate a task, review […]\nThe post Anthropic drops ‘workplace AI agents’ directly inside Slack appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-06-18T09:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/"
+    "date": "2026-06-24T09:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/"
+  },
+  {
+    "id": "8m3kh2x3l",
+    "title": "Omio scales travel product development using OpenAI models",
+    "summary": "Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries. Omio explicitly rejects the superficial addition of technology to outdated internal processes. The company’s CTO, Tomas Vocetka, requires all internal functions to completely redesign […]\nThe post Omio scales travel product development using OpenAI models appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-06-23T16:32:28.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/"
+  },
+  {
+    "id": "c5l8pbtz7",
+    "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
+    "summary": "The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the world’s most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of the Five Eyes nations—comprising the US, UK, Canada, Australia, and New Zealand—issued a rare joint intelligence briefing stating that upcoming artificial […]\nThe post Top spy agencies say AI cyber threats will impact you within months. Here’s why appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-06-23T08:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/"
+  },
+  {
+    "id": "g625u0of2",
+    "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+    "summary": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI designed Fugu as a response to these concentration risks by creating an orchestration language model that calls upon a pool of varied models […]\nThe post Mitigating vendor lock-in with Sakana AI Fugu multi-agent models appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-06-22T16:11:21.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/sakana-ai-fugu-ai-model-benchmarks-1024x915.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/"
   }
 ]
