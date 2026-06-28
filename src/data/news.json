@@ -1,6 +1,15 @@
 [
   {
-    "id": "tsx4s6yqh",
+    "id": "sbv1iiyau",
+    "title": "SAP aligns commerce data for AI personalisation",
+    "summary": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints. However, the actual infrastructure running inside these enterprises fails to support systematic execution at the required volume. Recommendation engines display generic product listings because […]\nThe post SAP aligns commerce data for AI personalisation appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-06-26T12:55:48.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/"
+  },
+  {
+    "id": "36kfqcajh",
     "title": "The math behind the OpenAI Jalapeño chip",
     "summary": "OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital expenditure associated with third-party hardware.  While Nvidia currently commands an estimated 75% profit margin on […]\nThe post The math behind the OpenAI Jalapeño chip appeared first on AI News.",
     "category": "General AI",
@@ -9,7 +18,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/"
   },
   {
-    "id": "tjj7e2xu1",
+    "id": "cl2ul0p3w",
     "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
     "summary": "Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work. According to OpenAI, the deployment covers all Samsung Electronics employees in Korea and all Device eXperience employees worldwide. The DX division includes smartphones, consumer electronics, and home appliances. Samsung plans to use […]\nThe post Samsung opens ChatGPT Enterprise and Codex access after AI restrictions appeared first on AI News.",
     "category": "General AI",
@@ -18,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/"
   },
   {
-    "id": "ly6zrtiwt",
+    "id": "3hxwk6v2u",
     "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
     "summary": "Anthropic launched a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group threads by typing @Claude.  The integration allows any team member in the channel to delegate a task, review […]\nThe post Anthropic drops ‘workplace AI agents’ directly inside Slack appeared first on AI News.",
     "category": "General AI",
@@ -27,21 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/"
   },
   {
-    "id": "k81jr3bit",
+    "id": "zft2mrh4u",
     "title": "Omio scales travel product development using OpenAI models",
     "summary": "Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries. Omio explicitly rejects the superficial addition of technology to outdated internal processes. The company’s CTO, Tomas Vocetka, requires all internal functions to completely redesign […]\nThe post Omio scales travel product development using OpenAI models appeared first on AI News.",
     "category": "General AI",
     "date": "2026-06-23T16:32:28.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
     "source_url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/"
-  },
-  {
-    "id": "m3qg9cp4u",
-    "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
-    "summary": "The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the world’s most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of the Five Eyes nations—comprising the US, UK, Canada, Australia, and New Zealand—issued a rare joint intelligence briefing stating that upcoming artificial […]\nThe post Top spy agencies say AI cyber threats will impact you within months. Here’s why appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-23T08:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/"
   }
 ]
