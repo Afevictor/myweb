@@ -1,47 +1,47 @@
 [
   {
-    "id": "sbv1iiyau",
-    "title": "SAP aligns commerce data for AI personalisation",
-    "summary": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints. However, the actual infrastructure running inside these enterprises fails to support systematic execution at the required volume. Recommendation engines display generic product listings because […]\nThe post SAP aligns commerce data for AI personalisation appeared first on AI News.",
+    "id": "dzpgjjwxy",
+    "title": "HP accelerates enterprise workflows with OpenAI Frontier",
+    "summary": "HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2026. Early pilot programs yielded verified operational gains in software engineering and cybersecurity remediation. Expanding these initial trials into an enterprise-wide operating model requires connecting access protocols, contextual […]\nThe post HP accelerates enterprise workflows with OpenAI Frontier appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-06-26T12:55:48.000Z",
+    "date": "2026-06-29T12:22:45.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/"
+    "source_url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/"
   },
   {
-    "id": "36kfqcajh",
-    "title": "The math behind the OpenAI Jalapeño chip",
-    "summary": "OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital expenditure associated with third-party hardware.  While Nvidia currently commands an estimated 75% profit margin on […]\nThe post The math behind the OpenAI Jalapeño chip appeared first on AI News.",
+    "id": "g02uupa4k",
+    "title": "Wimbledon adds IBM AI tools for live match coverage",
+    "summary": "The All England Lawn Tennis Club is adding new AI-powered features to Wimbledon’s digital platforms through its ongoing work with IBM. The updates will be available through the Wimbledon app and wimbledon.com as first-round matches begin on Monday. They include an upgraded Match Chat assistant and a new feature called Key Moments. The features will […]\nThe post Wimbledon adds IBM AI tools for live match coverage appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-06-25T06:00:00.000Z",
+    "date": "2026-06-29T10:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/"
+    "source_url": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/"
   },
   {
-    "id": "cl2ul0p3w",
-    "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
-    "summary": "Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work. According to OpenAI, the deployment covers all Samsung Electronics employees in Korea and all Device eXperience employees worldwide. The DX division includes smartphones, consumer electronics, and home appliances. Samsung plans to use […]\nThe post Samsung opens ChatGPT Enterprise and Codex access after AI restrictions appeared first on AI News.",
+    "id": "ocyjfcaqv",
+    "title": "Advances in Natural Language Processing Are Changing Professional Networking",
+    "summary": "Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions. As AI-driven systems increasingly comprehend and generate human language, these technological advances affect how users pursue and maintain professional connections, presenting both opportunities and challenges in authentic relationship-building. Professional networking now relies on a growing ecosystem of AI-powered […]\nThe post Advances in Natural Language Processing Are Changing Professional Networking appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-06-24T10:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/"
+    "date": "2026-06-29T08:59:46.000Z",
+    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/"
   },
   {
-    "id": "3hxwk6v2u",
-    "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
-    "summary": "Anthropic launched a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group threads by typing @Claude.  The integration allows any team member in the channel to delegate a task, review […]\nThe post Anthropic drops ‘workplace AI agents’ directly inside Slack appeared first on AI News.",
+    "id": "gke2ak7rz",
+    "title": "Best Automated Security Testing Tools for Modern DevSecOps",
+    "summary": "Modern DevSecOps needs security checks that run before release day. Teams now write code, build services and deploy updates at a pace that manual review cannot match. That’s why they use automated testing, as it helps catch routine flaws before they reach production. The pressure has grown. Verizon’s 2025 Data Breach Investigations Report found that […]\nThe post Best Automated Security Testing Tools for Modern DevSecOps appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-06-24T09:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/"
+    "date": "2026-06-29T08:54:22.000Z",
+    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/"
   },
   {
-    "id": "zft2mrh4u",
-    "title": "Omio scales travel product development using OpenAI models",
-    "summary": "Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries. Omio explicitly rejects the superficial addition of technology to outdated internal processes. The company’s CTO, Tomas Vocetka, requires all internal functions to completely redesign […]\nThe post Omio scales travel product development using OpenAI models appeared first on AI News.",
+    "id": "hwxongmut",
+    "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+    "summary": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection processes regularly fail to account for physical operating limits. Relying on public APIs exposes proprietary commercial data. xFusion engineers responded with a four-tier hardware […]\nThe post xFusion scales enterprise AI from edge workstations to liquid-cooled data centres appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-06-23T16:32:28.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/"
+    "date": "2026-06-29T08:05:32.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image-1.jpeg",
+    "source_url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/"
   }
 ]
