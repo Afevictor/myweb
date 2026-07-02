@@ -1,47 +1,47 @@
 [
   {
-    "id": "1no0ciwcq",
+    "id": "mt6xbfu6b",
+    "title": "Deploying retail AI to scale personalisation and customer insight",
+    "summary": "Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session. Static layouts and broad segmentation rules fail to satisfy modern conversion targets. Deployments demonstrate that traditional demographic categorisation generates insufficient […]\nThe post Deploying retail AI to scale personalisation and customer insight appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-07-01T15:58:43.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/"
+  },
+  {
+    "id": "mjbsvkca8",
+    "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots",
+    "summary": "Japan’s AI robots plan just went from a talking point to a formal national strategy. This week, the government confirmed the numbers everyone’s been quoting: 10 million AI-powered robots deployed across 18 industries by 2040, backed by public funding of up to one trillion yen, or roughly US$6.1 billion, over five years. The headline figure […]\nThe post Japan’s answer to its worker shortage: An AI model for 10 million robots appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-07-01T11:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/"
+  },
+  {
+    "id": "ugh6bm8cu",
+    "title": "Bank of England reviews AI rules for agentic AI in finance",
+    "summary": "The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance, including payments, trading, cybersecurity, and operations. Deputy Governor Sarah Breeden said existing regulatory frameworks were not designed for AI agents that can act without direct human instruction. Speaking at the European Central Bank Forum on central banking […]\nThe post Bank of England reviews AI rules for agentic AI in finance appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-07-01T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/"
+  },
+  {
+    "id": "exmc2ih1f",
+    "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+    "summary": "Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review. The decision marks the conclusion of an eighteen-day operational pause triggered by a US government export control directive on June 12, which forced the temporary suspension of Anthropic’s highest-capability systems. Government officials enacted […]\nThe post Anthropic deploys Claude Sonnet 5, Fable and Mythos restored appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-07-01T08:47:12.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/"
+  },
+  {
+    "id": "ue71asim6",
     "title": "HP accelerates enterprise workflows with OpenAI Frontier",
     "summary": "HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2026. Early pilot programs yielded verified operational gains in software engineering and cybersecurity remediation. Expanding these initial trials into an enterprise-wide operating model requires connecting access protocols, contextual […]\nThe post HP accelerates enterprise workflows with OpenAI Frontier appeared first on AI News.",
     "category": "General AI",
     "date": "2026-06-29T12:22:45.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
     "source_url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/"
-  },
-  {
-    "id": "u97z11h56",
-    "title": "Wimbledon adds IBM AI tools for live match coverage",
-    "summary": "The All England Lawn Tennis Club is adding new AI-powered features to Wimbledon’s digital platforms through its ongoing work with IBM. The updates will be available through the Wimbledon app and wimbledon.com as first-round matches begin on Monday. They include an upgraded Match Chat assistant and a new feature called Key Moments. The features will […]\nThe post Wimbledon adds IBM AI tools for live match coverage appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-29T10:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/"
-  },
-  {
-    "id": "5hnd3tb42",
-    "title": "Advances in Natural Language Processing Are Changing Professional Networking",
-    "summary": "Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions. As AI-driven systems increasingly comprehend and generate human language, these technological advances affect how users pursue and maintain professional connections, presenting both opportunities and challenges in authentic relationship-building. Professional networking now relies on a growing ecosystem of AI-powered […]\nThe post Advances in Natural Language Processing Are Changing Professional Networking appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-29T08:59:46.000Z",
-    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/"
-  },
-  {
-    "id": "s53obnx9g",
-    "title": "Best Automated Security Testing Tools for Modern DevSecOps",
-    "summary": "Modern DevSecOps needs security checks that run before release day. Teams now write code, build services and deploy updates at a pace that manual review cannot match. That’s why they use automated testing, as it helps catch routine flaws before they reach production. The pressure has grown. Verizon’s 2025 Data Breach Investigations Report found that […]\nThe post Best Automated Security Testing Tools for Modern DevSecOps appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-29T08:54:22.000Z",
-    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/"
-  },
-  {
-    "id": "lgnuikr7p",
-    "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
-    "summary": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection processes regularly fail to account for physical operating limits. Relying on public APIs exposes proprietary commercial data. xFusion engineers responded with a four-tier hardware […]\nThe post xFusion scales enterprise AI from edge workstations to liquid-cooled data centres appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-06-29T08:05:32.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image-1.jpeg",
-    "source_url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/"
   }
 ]
