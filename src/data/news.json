@@ -1,6 +1,24 @@
 [
   {
-    "id": "v86zx3efz",
+    "id": "v8k7n7vpj",
+    "title": "Companies traded people for tokens. The returns haven’t shown up",
+    "summary": "Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached. On the All-In Podcast at the close of GTC 2026, the Nvidia chief executive said that if a US$500,000 engineer’s annual AI token consumption came in under US$250,000, half their salary, “I am going to be deeply alarmed.” Nvidia, […]\nThe post Companies traded people for tokens. The returns haven’t shown up appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-07-07T11:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/token-budgets-vs-people/"
+  },
+  {
+    "id": "iwf2itjan",
+    "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
+    "summary": "L’Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio. The French cosmetics group has applied AI in its laboratories for the past four years, with Fabrice Megarbane, president of L’Oreal’s consumer products division, telling Reuters that the technology helps the company predict how molecules […]\nThe post L’Oreal, Mondelez, and Nestle use AI to speed product development appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-07-07T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/"
+  },
+  {
+    "id": "of407pd18",
     "title": "China’s AI companion rules: what Beijing is really going after",
     "summary": "An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustain an ongoing, personal relationship with a user, with the memory and steady persona that keep it consistent from one session to […]\nThe post China’s AI companion rules: what Beijing is really going after appeared first on AI News.",
     "category": "General AI",
@@ -9,39 +27,21 @@
     "source_url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/"
   },
   {
-    "id": "99h0jshs2",
-    "title": "Takeda signs US$600M AI drug discovery deal with Insilico",
-    "summary": "Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas. The companies did not disclose which therapeutic areas or disease targets will be covered under the collaboration. The agreement gives Takeda access to Insilico’s Pharma.AI platform, which supports biological target […]\nThe post Takeda signs US$600M AI drug discovery deal with Insilico appeared first on AI News.",
+    "id": "eptrprm2a",
+    "title": "Takeda signs $600M AI drug discovery deal with Insilico",
+    "summary": "Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas. The companies did not disclose which therapeutic areas or disease targets will be covered under the collaboration. The agreement gives Takeda access to Insilico’s Pharma.AI platform, which supports biological target […]\nThe post Takeda signs $600M AI drug discovery deal with Insilico appeared first on AI News.",
     "category": "General AI",
     "date": "2026-07-03T10:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
     "source_url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/"
   },
   {
-    "id": "wdgsagei5",
+    "id": "eullkoy7v",
     "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
     "summary": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse directly with digital agents using natural language to execute end-to-end research workflows. This system connects natively to […]\nThe post NVIDIA BioNeMo accelerates Anthropic Claude Science appeared first on AI News.",
     "category": "General AI",
     "date": "2026-07-02T14:38:01.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
     "source_url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/"
-  },
-  {
-    "id": "t5speez06",
-    "title": "Deploying retail AI to scale personalisation and customer insight",
-    "summary": "Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session. Static layouts and broad segmentation rules fail to satisfy modern conversion targets. Deployments demonstrate that traditional demographic categorisation generates insufficient […]\nThe post Deploying retail AI to scale personalisation and customer insight appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-07-01T15:58:43.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/"
-  },
-  {
-    "id": "85z2ix6mk",
-    "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots",
-    "summary": "Japan’s AI robots plan just went from a talking point to a formal national strategy. This week, the government confirmed the numbers everyone’s been quoting: 10 million AI-powered robots deployed across 18 industries by 2040, backed by public funding of up to one trillion yen, or roughly US$6.1 billion, over five years. The headline figure […]\nThe post Japan’s answer to its worker shortage: An AI model for 10 million robots appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-07-01T11:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/"
   }
 ]
