@@ -1,6 +1,15 @@
 [
   {
-    "id": "ai4pu8si4",
+    "id": "4o2fftsgn",
+    "title": "NHS AI blood test could reduce invasive womb cancer checks",
+    "summary": "Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out. According to The Guardian, around 90,000 postmenopausal women in England are referred by GPs each year for checks after experiencing heavy bleeding. About 10,000 women are diagnosed with womb […]\nThe post NHS AI blood test could reduce invasive womb cancer checks appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-07-09T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/"
+  },
+  {
+    "id": "kwfbryr6t",
     "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
     "summary": "Insilico Medicine is advancing to Phase III human trials for testing a drug identified by AI targeting idiopathic pulmonary fibrosis (IPF). This progression supplies the computational drug discovery sector with empirical test cases, advancing an AI medicine past early safety evaluations into late-stage efficacy validation. IPF destroys respiratory capacity through severe lung tissue scarring. Patients […]\nThe post Insilico Medicine advances AI drug for IPF to Phase III trials appeared first on AI News.",
     "category": "General AI",
@@ -9,7 +18,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/"
   },
   {
-    "id": "7q3tjokse",
+    "id": "nl89yh50u",
     "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
     "summary": "L’Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio. The French cosmetics group has applied AI in its laboratories for the past four years, with Fabrice Megarbane, president of L’Oreal’s consumer products division, telling Reuters that the technology helps the company predict how molecules […]\nThe post L’Oreal, Mondelez, and Nestle use AI to speed product development appeared first on AI News.",
     "category": "General AI",
@@ -18,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/"
   },
   {
-    "id": "x64t0mjnb",
+    "id": "jvjphg4y3",
     "title": "China’s AI companion rules: what Beijing is really going after",
     "summary": "An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustain an ongoing, personal relationship with a user, with the memory and steady persona that keep it consistent from one session to […]\nThe post China’s AI companion rules: what Beijing is really going after appeared first on AI News.",
     "category": "General AI",
@@ -27,21 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/"
   },
   {
-    "id": "fi5d02vbz",
+    "id": "ojpt22hnn",
     "title": "Takeda signs $600M AI drug discovery deal with Insilico",
     "summary": "Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas. The companies did not disclose which therapeutic areas or disease targets will be covered under the collaboration. The agreement gives Takeda access to Insilico’s Pharma.AI platform, which supports biological target […]\nThe post Takeda signs $600M AI drug discovery deal with Insilico appeared first on AI News.",
     "category": "General AI",
     "date": "2026-07-03T10:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/image.png",
     "source_url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/"
-  },
-  {
-    "id": "d21rur4pw",
-    "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-    "summary": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse directly with digital agents using natural language to execute end-to-end research workflows. This system connects natively to […]\nThe post NVIDIA BioNeMo accelerates Anthropic Claude Science appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-07-02T14:38:01.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/"
   }
 ]
