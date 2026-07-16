@@ -1,6 +1,15 @@
 [
   {
-    "id": "qcvwmfbbs",
+    "id": "yhyynhpy2",
+    "title": "Neko Health raises $700 million to expand AI body scans in the US",
+    "summary": "Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company’s preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review. The Series C round was led by Lightspeed Venture Partners and co-led by O.G. Venture Partners. Existing […]\nThe post Neko Health raises $700 million to expand AI body scans in the US appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-07-16T09:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/"
+  },
+  {
+    "id": "b9zikzy7a",
     "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
     "summary": "Nokia’s AI-RAN platform arrived on July 15 with a claim worth examining: that it is the industry’s first. The vendor says the platform, built on its anyRAN software and NVIDIA’s Aerial system, will let operators pull far more capacity from the spectrum they already own, and it has framed the launch as one of the most significant […]\nThe post Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA appeared first on AI News.",
     "category": "General AI",
@@ -9,7 +18,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/"
   },
   {
-    "id": "ud9n5usvh",
+    "id": "v5kq4t2ie",
     "title": "AWS and Bluesight build AI for hospital 340B compliance",
     "summary": "AWS (Amazon Web Services) has explained how Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite. Prism Assistant for ControlCheck has reached general availability and operates across 20 health systems, according to AWS vendor statements. Meanwhile, a multi-product agent for 340B Group Purchasing Organisation (GPO) compliance remains […]\nThe post AWS and Bluesight build AI for hospital 340B compliance appeared first on AI News.",
     "category": "General AI",
@@ -18,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/"
   },
   {
-    "id": "vh7oe1iet",
+    "id": "wbk0hfojh",
     "title": "AI agent crawlers now need permission. Here’s how to get it",
     "summary": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare announced the change on July 1, and most of the coverage since then has focused on Google. The more useful part […]\nThe post AI agent crawlers now need permission. Here’s how to get it appeared first on AI News.",
     "category": "General AI",
@@ -27,21 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/"
   },
   {
-    "id": "qcbv523s6",
+    "id": "vcssz9b1o",
     "title": "How to shrink the token budget without shrinking the team",
     "summary": "Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached. Speaking on the All-In Podcast at the close of GTC 2026, the Nvidia chief executive said that if a $500,000 engineer’s annual AI token consumption came in under half their salary, “I am going to […]\nThe post How to shrink the token budget without shrinking the team appeared first on AI News.",
     "category": "General AI",
     "date": "2026-07-10T09:34:27.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
     "source_url": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/"
-  },
-  {
-    "id": "7qfk98tvf",
-    "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
-    "summary": "A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph. Historically, initial data gathering and screening phases took over six months per iteration, yielding a low five percent success rate. Crucial […]\nThe post AWS GraphRAG deployment cuts drug research cycles by 87% appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-07-09T15:43:09.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/"
   }
 ]
