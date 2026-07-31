@@ -1,6 +1,33 @@
 [
   {
-    "id": "73t3eroep",
+    "id": "ppe9a4a4x",
+    "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
+    "summary": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statement of company philosophy rather than a product announcement. It contains no release dates, no benchmark figures, no named models. What it does contain is an argument that […]\nThe post Zuckerberg details Meta’s personal AI superintelligence strategy appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-07-30T11:12:11.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/"
+  },
+  {
+    "id": "ma694vnwg",
+    "title": "How AI is Changing Linux VPS Security for Businesses",
+    "summary": "Cybersecurity wasn’t really something small and mid-sized businesses worried about too much a few years back. That’s changed fast. Once your customer data, your apps, your internal tools all end up online, protecting the server behind them stops being optional. And attacks aren’t getting any simpler either, which is part of the problem with sticking […]\nThe post How AI is Changing Linux VPS Security for Businesses appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-07-30T10:41:02.000Z",
+    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/"
+  },
+  {
+    "id": "30csmuc8s",
+    "title": "OpenAI report links coding agents to faster science software builds",
+    "summary": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic’s Claude Code in three others. Worth flagging upfront: this is a vendor publishing a survey of its own […]\nThe post OpenAI report links coding agents to faster science software builds appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-07-29T10:53:39.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/"
+  },
+  {
+    "id": "0wvdcy0dw",
     "title": "Google AI Overviews become more common in search",
     "summary": "Google’s AI-generated summaries appeared in 43% of US searches measured by Similarweb, up from 15% a year earlier, according to the market intelligence firm’s 2026 Generative AI Landscape report. AI Overviews display generated summaries within conventional Google results, while AI Mode provides a conversational interface for longer questions and follow-up prompts. Users can move from […]\nThe post Google AI Overviews become more common in search appeared first on AI News.",
     "category": "General AI",
@@ -9,39 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/"
   },
   {
-    "id": "vwcguk1h1",
+    "id": "b2s9serm1",
     "title": "Guardoc Health processes clinical documentation using Amazon Nova models",
     "summary": "Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock. Bringing AI into clinical documentation comes down to a specific kind of risk calculation. Get it wrong and the errors compound into denied Medicare claims under the Patient-Driven Payment Model, audit fines, litigation exposure, and in the worst […]\nThe post Guardoc Health processes clinical documentation using Amazon Nova models appeared first on AI News.",
     "category": "General AI",
     "date": "2026-07-28T11:30:47.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
     "source_url": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/"
-  },
-  {
-    "id": "w74jroonv",
-    "title": "Armenia’s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty ",
-    "summary": "Armenia is not a big country. It’s not a wealthy country. It’s not a famous country. And yet, it has become not only a consumer of different AI products akin to Clideo subtitles generator for video editing, or giants like OpenAI, but also entered the headlines of global news for several reasons, not the least […]\nThe post Armenia’s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty  appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-07-28T08:52:46.000Z",
-    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/"
-  },
-  {
-    "id": "krfs9ogbf",
-    "title": "How AI is shortening drug discovery timelines in China",
-    "summary": "Insilico Medicine has reduced the time needed to produce some drug development candidates to about one year by combining artificial intelligence with laboratory research in China, according to CEO Alex Zhavoronkov. The Hong Kong-listed company’s fastest programme reached candidate nomination in nine months, while its typical timeline is about 13 months, Zhavoronkov said. He said […]\nThe post How AI is shortening drug discovery timelines in China appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-07-27T10:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/"
-  },
-  {
-    "id": "rcokvpjz6",
-    "title": "America’s AI Investment Boom Is Reshaping the Economy",
-    "summary": "America’s AI Investment Boom Is Reshaping the Economy Artificial intelligence has become one of the defining investment stories in the United States, and the numbers continue to grow. Microsoft, Meta, Amazon and Alphabet are collectively committing hundreds of billions of dollars to AI infrastructure, while demand for advanced chips has turned NVIDIA into one of […]\nThe post America’s AI Investment Boom Is Reshaping the Economy appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-07-27T09:18:53.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/image-1.jpeg",
-    "source_url": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/"
   }
 ]
