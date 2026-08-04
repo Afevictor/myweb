@@ -1,6 +1,33 @@
 [
   {
-    "id": "ppe9a4a4x",
+    "id": "ayk24omwn",
+    "title": "EU AI Act Article 50 transparency rules enter force",
+    "summary": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI tools now have to comply with Article 50, which requires providers and deployers of certain AI systems to tell people when they’re interacting with a machine, and to […]\nThe post EU AI Act Article 50 transparency rules enter force appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-08-03T16:09:25.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/"
+  },
+  {
+    "id": "4sxaghnsz",
+    "title": "Why biological data matters more in AI drug discovery",
+    "summary": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assisted drug discovery. Under the agreement, Relation will generate large-scale datasets measuring how human cells respond to genetic changes and drug interventions. The data will be used to train AI models […]\nThe post Why biological data matters more in AI drug discovery appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-08-03T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/"
+  },
+  {
+    "id": "0ths70sr6",
+    "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
+    "summary": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act’s GPAI Code as enforcement approaches. The company has contributed to and endorsed the EU’s General-Purpose AI (GPAI) Code of Practice and the Code of Practice on Transparency of AI-Generated Content. Both emerged from multi-stakeholder processes. The GPAI Code sets […]\nThe post OpenAI aligns safety practices with EU AI Act’s GPAI Code appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-07-31T15:04:25.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/"
+  },
+  {
+    "id": "sbygvxq95",
     "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
     "summary": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statement of company philosophy rather than a product announcement. It contains no release dates, no benchmark figures, no named models. What it does contain is an argument that […]\nThe post Zuckerberg details Meta’s personal AI superintelligence strategy appeared first on AI News.",
     "category": "General AI",
@@ -9,39 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/"
   },
   {
-    "id": "ma694vnwg",
+    "id": "2wqr9wg9q",
     "title": "How AI is Changing Linux VPS Security for Businesses",
     "summary": "Cybersecurity wasn’t really something small and mid-sized businesses worried about too much a few years back. That’s changed fast. Once your customer data, your apps, your internal tools all end up online, protecting the server behind them stops being optional. And attacks aren’t getting any simpler either, which is part of the problem with sticking […]\nThe post How AI is Changing Linux VPS Security for Businesses appeared first on AI News.",
     "category": "General AI",
     "date": "2026-07-30T10:41:02.000Z",
-    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
     "source_url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/"
-  },
-  {
-    "id": "30csmuc8s",
-    "title": "OpenAI report links coding agents to faster science software builds",
-    "summary": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic’s Claude Code in three others. Worth flagging upfront: this is a vendor publishing a survey of its own […]\nThe post OpenAI report links coding agents to faster science software builds appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-07-29T10:53:39.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/"
-  },
-  {
-    "id": "0wvdcy0dw",
-    "title": "Google AI Overviews become more common in search",
-    "summary": "Google’s AI-generated summaries appeared in 43% of US searches measured by Similarweb, up from 15% a year earlier, according to the market intelligence firm’s 2026 Generative AI Landscape report. AI Overviews display generated summaries within conventional Google results, while AI Mode provides a conversational interface for longer questions and follow-up prompts. Users can move from […]\nThe post Google AI Overviews become more common in search appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-07-29T10:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/"
-  },
-  {
-    "id": "b2s9serm1",
-    "title": "Guardoc Health processes clinical documentation using Amazon Nova models",
-    "summary": "Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock. Bringing AI into clinical documentation comes down to a specific kind of risk calculation. Get it wrong and the errors compound into denied Medicare claims under the Patient-Driven Payment Model, audit fines, litigation exposure, and in the worst […]\nThe post Guardoc Health processes clinical documentation using Amazon Nova models appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-07-28T11:30:47.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/"
   }
 ]
