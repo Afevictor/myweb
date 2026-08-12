@@ -1,47 +1,47 @@
 [
   {
-    "id": "ayk24omwn",
-    "title": "EU AI Act Article 50 transparency rules enter force",
-    "summary": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI tools now have to comply with Article 50, which requires providers and deployers of certain AI systems to tell people when they’re interacting with a machine, and to […]\nThe post EU AI Act Article 50 transparency rules enter force appeared first on AI News.",
+    "id": "15942scp0",
+    "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+    "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo Nordisk’s preferred cloud provider and strategic AI partner. The companies have also created a co-innovation hub at Novo Nordisk’s existing London […]\nThe post Novo Nordisk and AWS bring agentic AI into drug discovery appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-08-03T16:09:25.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/"
-  },
-  {
-    "id": "4sxaghnsz",
-    "title": "Why biological data matters more in AI drug discovery",
-    "summary": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assisted drug discovery. Under the agreement, Relation will generate large-scale datasets measuring how human cells respond to genetic changes and drug interventions. The data will be used to train AI models […]\nThe post Why biological data matters more in AI drug discovery appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-08-03T10:00:00.000Z",
+    "date": "2026-08-11T10:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/"
+    "source_url": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/"
   },
   {
-    "id": "0ths70sr6",
-    "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
-    "summary": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act’s GPAI Code as enforcement approaches. The company has contributed to and endorsed the EU’s General-Purpose AI (GPAI) Code of Practice and the Code of Practice on Transparency of AI-Generated Content. Both emerged from multi-stakeholder processes. The GPAI Code sets […]\nThe post OpenAI aligns safety practices with EU AI Act’s GPAI Code appeared first on AI News.",
+    "id": "a1mqo9yg9",
+    "title": "How AI is changing the vulnerability response timeline",
+    "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus analysis considers how container composition, dependency records and rebuild speed affect the response after an unknown flaw is exposed. Faster analysis helps only […]\nThe post How AI is changing the vulnerability response timeline appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-07-31T15:04:25.000Z",
+    "date": "2026-08-11T07:05:55.000Z",
+    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/"
+  },
+  {
+    "id": "03e10maam",
+    "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+    "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s  Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers can use it for local coding, function calling, local agents, and LLM-as-a-judge evaluation. The release targets an operational […]\nThe post Meta Muse Glimmer brings local AI agents to consumer GPUs appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-08-10T11:02:38.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/"
+    "source_url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/"
   },
   {
-    "id": "sbygvxq95",
-    "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
-    "summary": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statement of company philosophy rather than a product announcement. It contains no release dates, no benchmark figures, no named models. What it does contain is an argument that […]\nThe post Zuckerberg details Meta’s personal AI superintelligence strategy appeared first on AI News.",
+    "id": "25aj1c9dr",
+    "title": "The limits of physics AI: where Siemens says the human stays in charge",
+    "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit, and Sam Mahalingam, […]\nThe post The limits of physics AI: where Siemens says the human stays in charge appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-07-30T11:12:11.000Z",
+    "date": "2026-08-10T10:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/"
+    "source_url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/"
   },
   {
-    "id": "2wqr9wg9q",
-    "title": "How AI is Changing Linux VPS Security for Businesses",
-    "summary": "Cybersecurity wasn’t really something small and mid-sized businesses worried about too much a few years back. That’s changed fast. Once your customer data, your apps, your internal tools all end up online, protecting the server behind them stops being optional. And attacks aren’t getting any simpler either, which is part of the problem with sticking […]\nThe post How AI is Changing Linux VPS Security for Businesses appeared first on AI News.",
+    "id": "e98vwsb5x",
+    "title": "Stanford Evo 2 AI model generates phages against E. coli",
+    "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174, pronounced “FYE-ex-1-7-4”. Brian Hie, an assistant professor of chemical engineering and Dieter Schwarz Foundation Stanford Data […]\nThe post Stanford Evo 2 AI model generates phages against E. coli appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-07-30T10:41:02.000Z",
-    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/"
+    "date": "2026-08-07T15:05:03.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/"
   }
 ]
