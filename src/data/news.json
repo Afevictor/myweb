@@ -1,6 +1,33 @@
 [
   {
-    "id": "68572j3us",
+    "id": "chp6kwejs",
+    "title": "OpenAI president urges enterprises to hasten AI security defences",
+    "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to argue that organisations need to uplevel their security practices with what he terms unprecedented speed. He writes that he […]\nThe post OpenAI president urges enterprises to hasten AI security defences appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-08-18T14:58:27.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/"
+  },
+  {
+    "id": "m00q2n3ik",
+    "title": "Alvys launches AI agents for freight TMS workflows",
+    "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-built and custom AI agents that work with freight data and workflows already held within the TMS. Foundry includes more than 20 pre-built […]\nThe post Alvys launches AI agents for freight TMS workflows appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-08-18T12:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/"
+  },
+  {
+    "id": "qx6odryol",
+    "title": "Reading Zhipu’s GLM-5.3 results past the headline number",
+    "summary": "Zhipu’s release note for GLM-5.3 contains a sentence that did not make it into most of the coverage. Describing its own cybersecurity results, the Beijing company writes that capability “is growing fastest exactly where we are furthest behind.” Zhipu, which also trades as Z.ai, is one of a handful of Chinese labs releasing models that compete with […]\nThe post Reading Zhipu’s GLM-5.3 results past the headline number appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-08-18T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-3.04.48-PM-1024x373.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/"
+  },
+  {
+    "id": "8jkr0nait",
     "title": "Samsung health AI models analyse wearable biosignal data",
     "summary": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. The company discussed its Connected Care vision at the Health Forum during Galaxy Unpacked in July 2026. Samsung described a future of […]\nThe post Samsung health AI models analyse wearable biosignal data appeared first on AI News.",
     "category": "General AI",
@@ -9,39 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/"
   },
   {
-    "id": "6t2sl42mx",
+    "id": "rcwgpjzn4",
     "title": "Google AI health coach to use Abbott glucose data",
     "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data from Abbott’s Lingo continuous glucose monitor will be integrated into the Google Health app. Users will be able to view glucose trends alongside […]\nThe post Google AI health coach to use Abbott glucose data appeared first on AI News.",
     "category": "General AI",
     "date": "2026-08-14T10:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
     "source_url": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/"
-  },
-  {
-    "id": "kffrpymwc",
-    "title": "Okta targets AI agent token costs with MCP scoping",
-    "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the resulting prompt overhead the “tool tax”: tokens consumed as a model considers tools, including […]\nThe post Okta targets AI agent token costs with MCP scoping appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-08-13T09:22:06.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/"
-  },
-  {
-    "id": "6nlhqj9s4",
-    "title": "Google tests AMIE for clinical video consultations",
-    "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained actors portrayed conditions across cardiopulmonary, abdominal, HEENT, neurological or psychiatric, and musculoskeletal presentations. Google says studies involving real patients and their own health […]\nThe post Google tests AMIE for clinical video consultations appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-08-12T14:56:18.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/"
-  },
-  {
-    "id": "mz448miqd",
-    "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
-    "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo Nordisk’s preferred cloud provider and strategic AI partner. The companies have also created a co-innovation hub at Novo Nordisk’s existing London […]\nThe post Novo Nordisk and AWS bring agentic AI into drug discovery appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-08-11T10:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/"
   }
 ]
