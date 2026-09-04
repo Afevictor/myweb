@@ -1,47 +1,47 @@
 [
   {
-    "id": "i424qm97g",
-    "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
-    "summary": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company’s chief financial officer, told analysts on August 26 that demand from the labs Nvidia backs with its own balance sheet will contribute toward roughly a quarter of its business […]\nThe post A quarter of Nvidia’s business next year comes from labs it is financing appeared first on AI News.",
+    "id": "0j4ydjvec",
+    "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+    "summary": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations, draft reports, generate code, identify customer needs, and flag portfolio risks, according to Fast Company. M&T is also examining […]\nThe post M&T Bank expands enterprise AI after years of technology overhaul appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-08-27T10:00:00.000Z",
+    "date": "2026-09-04T10:00:00.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/"
+    "source_url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/"
   },
   {
-    "id": "egh5cx94p",
-    "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-    "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from Millennium Management, ARK Invest, Intact Private Capital, and other investors. Gatik said it has more than $600 million in […]\nThe post Gatik raises $200M to scale AI-powered autonomous freight appeared first on AI News.",
+    "id": "f348uze39",
+    "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+    "summary": "Just over half of American adults, 50.5%, say a partner’s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Audience on 26 and 27 August 2026 and analysed on the 1,709 responses that remained […]\nThe post 50.5% of Americans Say AI Romance Can Count as Cheating appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-08-26T10:00:00.000Z",
-    "image_url": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f7.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/"
+    "date": "2026-09-04T08:25:12.000Z",
+    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/"
   },
   {
-    "id": "n3r9usqop",
-    "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-    "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a machine instead of inside a data centre. NVIDIA’s argument for […]\nThe post NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots appeared first on AI News.",
+    "id": "nvf4e12d5",
+    "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+    "summary": "OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, wholesalers, and distributors decide how individual orders should be delivered. Called OmniSTAR, the system evaluates options including owned fleets, couriers, parcel carriers, and other delivery modes, then selects the lowest-cost option that meets the required service level, according to OneRail. The […]\nThe post OneRail uses Nvidia AI for real-time last-mile delivery optimisation appeared first on AI News.",
     "category": "General AI",
-    "date": "2026-08-26T09:08:11.000Z",
+    "date": "2026-09-03T16:07:18.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/"
+  },
+  {
+    "id": "4f016tlmn",
+    "title": "NVIDIA to acquire Hugging Face for $12.93B",
+    "summary": "NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository’s platform and infrastructure. The transaction targets platform growth and infrastructure investment, aiming to expand AI access for enterprise developers, software engineers, and research institutions globally. Built over the past decade by Clem Delangue, Julien Chaumond, Thomas Wolf, and their […]\nThe post NVIDIA to acquire Hugging Face for $12.93B appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-03T15:50:31.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/nvidia-hugging-face-repo-contributions-open-models-data-1024x712.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/"
+  },
+  {
+    "id": "dacj739v8",
+    "title": "Motional and MIT AI explains self-driving car decisions",
+    "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that includes CEO Laura Major, working alongside researchers from MIT’s Computer Science and Artificial Intelligence Laboratory. Their proposed method, […]\nThe post Motional and MIT AI explains self-driving car decisions appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-02T15:25:12.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/"
-  },
-  {
-    "id": "ovlrtj6mo",
-    "title": "MIT AI forecasts extreme weather without historical data",
-    "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of events that have not appeared in a region’s historical record but remain statistically-possible. Each map also carries estimates of the […]\nThe post MIT AI forecasts extreme weather without historical data appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-08-25T15:46:06.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/"
-  },
-  {
-    "id": "80fsgbudk",
-    "title": "XPENG IRON humanoid robot draws record physical AI funding",
-    "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors. XPENG says the deal represents the largest single-round private capital raise […]\nThe post XPENG IRON humanoid robot draws record physical AI funding appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-08-24T15:53:53.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/"
+    "source_url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/"
   }
 ]
