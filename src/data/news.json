@@ -1,47 +1,47 @@
 [
   {
-    "id": "6uc80oej3",
+    "id": "loqu0ziey",
+    "title": "Arm launches Total Design for Physical AI and robotics framework",
+    "summary": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account for trillions of dollars in economic activity and an estimated $200 billion annual compute opportunity by the 2030s. To address engineering fragmentation […]\nThe post Arm launches Total Design for Physical AI and robotics framework appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-08T11:44:10.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/arm-robotics-capability-framework-1024x576.jpg",
+    "source_url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/"
+  },
+  {
+    "id": "k5i62h3jq",
+    "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+    "summary": "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform. The Perfect Basket feature uses Coca-Cola’s Central Recommendation Engine to analyse previous orders, ordering frequency, seasonality, weather, and purchasing patterns among similar businesses. Coca-Cola said Coke Buddy currently supports about 39,000 retail outlets across […]\nThe post Coca-Cola uses AI to improve retailer ordering in Malaysia appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-08T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/"
+  },
+  {
+    "id": "7r6ox5b7b",
+    "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+    "summary": "Google’s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour. Energy traders, grid operators and wind and solar developers already pay other companies for that […]\nThe post AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3 appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-08T09:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Image-1-1024x576.jpeg",
+    "source_url": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/"
+  },
+  {
+    "id": "qrb8pekv6",
+    "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+    "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected. Searcherries followed 50 searches daily from […]\nThe post YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-08T08:50:39.000Z",
+    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/"
+  },
+  {
+    "id": "lg77k74n3",
     "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
     "summary": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global retailers and commercial shippers, pairing automated routing algorithms with carrier recommendation systems across international trade corridors. The deployment arrives as enterprise supply chain operators report measurable operational returns from […]\nThe post MG Ship adds AI route optimisation as logistics returns accelerate appeared first on AI News.",
     "category": "General AI",
     "date": "2026-09-07T13:01:23.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
     "source_url": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/"
-  },
-  {
-    "id": "0mk3t2oac",
-    "title": "M&T Bank expands enterprise AI after years of technology overhaul",
-    "summary": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations, draft reports, generate code, identify customer needs, and flag portfolio risks, according to Fast Company. M&T is also examining […]\nThe post M&T Bank expands enterprise AI after years of technology overhaul appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-09-04T10:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/"
-  },
-  {
-    "id": "g4swtxhm7",
-    "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
-    "summary": "Just over half of American adults, 50.5%, say a partner’s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Audience on 26 and 27 August 2026 and analysed on the 1,709 responses that remained […]\nThe post 50.5% of Americans Say AI Romance Can Count as Cheating appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-09-04T08:25:12.000Z",
-    "image_url": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/"
-  },
-  {
-    "id": "t3l48bagf",
-    "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
-    "summary": "OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, wholesalers, and distributors decide how individual orders should be delivered. Called OmniSTAR, the system evaluates options including owned fleets, couriers, parcel carriers, and other delivery modes, then selects the lowest-cost option that meets the required service level, according to OneRail. The […]\nThe post OneRail uses Nvidia AI for real-time last-mile delivery optimisation appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-09-03T16:07:18.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/"
-  },
-  {
-    "id": "d0rvlh05n",
-    "title": "NVIDIA to acquire Hugging Face for $12.93B",
-    "summary": "NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository’s platform and infrastructure. The transaction targets platform growth and infrastructure investment, aiming to expand AI access for enterprise developers, software engineers, and research institutions globally. Built over the past decade by Clem Delangue, Julien Chaumond, Thomas Wolf, and their […]\nThe post NVIDIA to acquire Hugging Face for $12.93B appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-09-03T15:50:31.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/nvidia-hugging-face-repo-contributions-open-models-data-1024x712.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/"
   }
 ]
