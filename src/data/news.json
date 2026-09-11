@@ -1,6 +1,33 @@
 [
   {
-    "id": "sot5drkdt",
+    "id": "snutqv762",
+    "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+    "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack (the transit from fab output to an assembled data centre system) and time-to-token (which covers power, cooling, networking, and day-one software […]\nThe post Palantir Foundry and cuOpt drive NVIDIA supply chain allocation appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-11T12:00:18.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/nvidia-nemotron-3-5-lightning-model-hardware-allocation-ai-benchmarks-1024x576.jpg",
+    "source_url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/"
+  },
+  {
+    "id": "nnxx62xsc",
+    "title": "Supply chains detect fast, act slow: How AI agents fix it",
+    "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms happen, costs follow.) Treated as a product specification instead, it highlights an operating model that can […]\nThe post Supply chains detect fast, act slow: How AI agents fix it appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-10T16:34:43.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/"
+  },
+  {
+    "id": "6ovv61uvy",
+    "title": "JD.com expands physical AI in logistics with 3 million robots",
+    "summary": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones. The company launched the plan at JDDiscovery 2026 in Beijing. JD Logistics also unveiled its industrial Wolf Robot series, designed […]\nThe post JD.com expands physical AI in logistics with 3 million robots appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-10T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/"
+  },
+  {
+    "id": "nd8lw0yke",
     "title": "CloudNC aims to accelerate AI supply chain machining",
     "summary": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Venture Capital, Entrepreneur First, and LM Ventures, the venture capital fund of Lockheed Martin. Founded in 2015, CloudNC operates from […]\nThe post CloudNC aims to accelerate AI supply chain machining appeared first on AI News.",
     "category": "General AI",
@@ -9,39 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/"
   },
   {
-    "id": "rgd82zdie",
+    "id": "gvyenkv0x",
     "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
     "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France. Samsung will integrate Mistral’s software suite – including its flagship Mistral Large model – into internal semiconductor facilities to build customised […]\nThe post Samsung taps Mistral AI models for semiconductor manufacturing appeared first on AI News.",
     "category": "General AI",
     "date": "2026-09-09T08:52:19.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
     "source_url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/"
-  },
-  {
-    "id": "2sg6nhrxg",
-    "title": "Arm launches Total Design for Physical AI and robotics framework",
-    "summary": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account for trillions of dollars in economic activity and an estimated $200 billion annual compute opportunity by the 2030s. To address engineering fragmentation […]\nThe post Arm launches Total Design for Physical AI and robotics framework appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-09-08T11:44:10.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/arm-robotics-capability-framework-1024x576.jpg",
-    "source_url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/"
-  },
-  {
-    "id": "sayfuvx8w",
-    "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
-    "summary": "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform. The Perfect Basket feature uses Coca-Cola’s Central Recommendation Engine to analyse previous orders, ordering frequency, seasonality, weather, and purchasing patterns among similar businesses. Coca-Cola said Coke Buddy currently supports about 39,000 retail outlets across […]\nThe post Coca-Cola uses AI to improve retailer ordering in Malaysia appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-09-08T10:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/"
-  },
-  {
-    "id": "vz1cjrvzv",
-    "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
-    "summary": "Google’s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour. Energy traders, grid operators and wind and solar developers already pay other companies for that […]\nThe post AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3 appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-09-08T09:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Image-1-1024x576.jpeg",
-    "source_url": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/"
   }
 ]
