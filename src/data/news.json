@@ -1,47 +1,47 @@
 [
   {
-    "id": "n2yfzynj3",
+    "id": "d4c6krbyg",
+    "title": "AutoScheduler launches warehouse app builder for logistics teams",
+    "summary": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data. The new software module forms part of the company’s wider Warehouse AI Platform, serving distribution centres that balance inventory, machinery, and labour. Distribution centres routinely depend on rigid enterprise resource planning and warehouse management suites. When […]\nThe post AutoScheduler launches warehouse app builder for logistics teams appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-22T11:34:39.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/"
+  },
+  {
+    "id": "qxt9n7srp",
+    "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
+    "summary": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028. The potential investment was discussed with investors earlier in September, according to Reuters. Toyota has not said whether the full investment will proceed or […]\nThe post Toyota’s $6.4bn robotics estimate puts physical AI in focus appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-22T10:00:00.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/"
+  },
+  {
+    "id": "h7q0zhu7x",
+    "title": "Multi-agent AI systems are taking over supply chain execution",
+    "summary": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution. Predictive demand models display recommendations, yet human planners still clear every action. Multi-agent systems replace that approval stage across targeted operational boundaries. Instead of waiting for weekly scheduling runs, independent software […]\nThe post Multi-agent AI systems are taking over supply chain execution appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-21T15:32:54.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/"
+  },
+  {
+    "id": "bkfvfwwxb",
+    "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
+    "summary": "AI adoption has outpaced AI governance across enterprise environments, creating a fundamental security problem. Organisations cannot protect what they cannot see, and visibility has become the prerequisite for all other AI security controls. Traditional monitoring tools fail to track AI activity effectively, creating significant risks that require new strategies for security teams to regain control […]\nThe post How to Improve Visibility Across Your Enterprise AI Ecosystem appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-21T07:50:48.000Z",
+    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/"
+  },
+  {
+    "id": "owfwo9uc3",
     "title": "Gartner outlines four AI tiers in warehouse automation",
     "summary": "Gartner reports that warehouse automation now spans four operational AI tiers as logistics operators transition from software trials to live facility deployments. In an analysis released this month, the research firm concludes that logistics infrastructure has reached a clear adoption threshold. Three pressures are driving this change across the sector. Persistent worker deficits make automated […]\nThe post Gartner outlines four AI tiers in warehouse automation appeared first on AI News.",
     "category": "General AI",
     "date": "2026-09-18T12:49:34.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/image.png",
     "source_url": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/"
-  },
-  {
-    "id": "9m8asmqcy",
-    "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose ",
-    "summary": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra’s multiplayer capabilities, people can get agent to agent collaboration without having to lock-in to any AI model. BOSTON, September 18, 2026 — Fulcra Dynamics, the company behind the best user-owned context backend for AI agents, […]\nThe post Fulcra Brings Universal Multiplayer to Any Agents You Choose  appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-09-18T09:15:15.000Z",
-    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/"
-  },
-  {
-    "id": "4sehr9s9f",
-    "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
-    "summary": "The Adecco Group is rolling out Salesforce’s Agentforce Coworker across more than 40 countries following a pilot in the UK and France, the staffing group announced on September 15. The group said the rollout brings agentic AI into the daily workflows of 27,000 employees. Agentforce Coworker is Salesforce’s AI assistant for enterprise staff. According to the Adecco […]\nThe post Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-09-17T11:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/"
-  },
-  {
-    "id": "r64ga5crm",
-    "title": "Lidl deploys driverless truck for store deliveries in Germany",
-    "summary": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany, assigning it a daily replenishment route between its Edermünde distribution centre and a nearby store. The truck, supplied by Swedish freight technology company Einride, operates at SAE Level 4 under a permit from Germany’s Federal Motor Transport Authority, or KBA. […]\nThe post Lidl deploys driverless truck for store deliveries in Germany appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-09-17T10:00:00.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/"
-  },
-  {
-    "id": "r821lqp3g",
-    "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
-    "summary": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic’s January 2026 constitution, a primary training document designed to govern the model’s values and behaviour. He argued that coaching sequence completion engines to emulate sentience impairs […]\nThe post Microsoft AI CEO criticises Anthropic over model ‘rights’ appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-09-16T14:47:32.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/"
   }
 ]
