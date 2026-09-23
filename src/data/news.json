@@ -1,6 +1,24 @@
 [
   {
-    "id": "d4c6krbyg",
+    "id": "ypqaiq0uu",
+    "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+    "summary": "Deploying randomised AI logistics offers military planners a viable defence against adversarial tracking, allowing U.S. Transportation Command (TRANSCOM) to insulate global distribution networks against contested disruption.  Commercial freight software historically prioritises static scheduling, steady delivery windows, and just-in-time routing to eliminate transit waste. In an operational theatre, however, those fixed cadences expose military transports to […]\nThe post U.S. TRANSCOM deploys randomised AI to secure military logistics appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-23T13:13:15.000Z",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/image.png",
+    "source_url": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/"
+  },
+  {
+    "id": "s6s20ajdj",
+    "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+    "summary": "By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding Roughly 7,600 fake GitHub repositories, 6,600 fraudulent profiles and more than 14 million downloads: that is the scale of FakeGit, a malware campaign documented by Island in July 2026. Over 800 repositories impersonated AI skills and MCP servers, distributing SmartLoader and […]\nThe post AI Agents Are Becoming a New Malware Distribution Channel appeared first on AI News.",
+    "category": "General AI",
+    "date": "2026-09-23T07:44:17.000Z",
+    "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+    "source_url": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/"
+  },
+  {
+    "id": "gfv9t4tzh",
     "title": "AutoScheduler launches warehouse app builder for logistics teams",
     "summary": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data. The new software module forms part of the company’s wider Warehouse AI Platform, serving distribution centres that balance inventory, machinery, and labour. Distribution centres routinely depend on rigid enterprise resource planning and warehouse management suites. When […]\nThe post AutoScheduler launches warehouse app builder for logistics teams appeared first on AI News.",
     "category": "General AI",
@@ -9,7 +27,7 @@
     "source_url": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/"
   },
   {
-    "id": "qxt9n7srp",
+    "id": "ykexuquk0",
     "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
     "summary": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028. The potential investment was discussed with investors earlier in September, according to Reuters. Toyota has not said whether the full investment will proceed or […]\nThe post Toyota’s $6.4bn robotics estimate puts physical AI in focus appeared first on AI News.",
     "category": "General AI",
@@ -18,30 +36,12 @@
     "source_url": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/"
   },
   {
-    "id": "h7q0zhu7x",
+    "id": "jgu11d7kk",
     "title": "Multi-agent AI systems are taking over supply chain execution",
     "summary": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution. Predictive demand models display recommendations, yet human planners still clear every action. Multi-agent systems replace that approval stage across targeted operational boundaries. Instead of waiting for weekly scheduling runs, independent software […]\nThe post Multi-agent AI systems are taking over supply chain execution appeared first on AI News.",
     "category": "General AI",
     "date": "2026-09-21T15:32:54.000Z",
     "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
     "source_url": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/"
-  },
-  {
-    "id": "bkfvfwwxb",
-    "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
-    "summary": "AI adoption has outpaced AI governance across enterprise environments, creating a fundamental security problem. Organisations cannot protect what they cannot see, and visibility has become the prerequisite for all other AI security controls. Traditional monitoring tools fail to track AI activity effectively, creating significant risks that require new strategies for security teams to regain control […]\nThe post How to Improve Visibility Across Your Enterprise AI Ecosystem appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-09-21T07:50:48.000Z",
-    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
-    "source_url": "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/"
-  },
-  {
-    "id": "owfwo9uc3",
-    "title": "Gartner outlines four AI tiers in warehouse automation",
-    "summary": "Gartner reports that warehouse automation now spans four operational AI tiers as logistics operators transition from software trials to live facility deployments. In an analysis released this month, the research firm concludes that logistics infrastructure has reached a clear adoption threshold. Three pressures are driving this change across the sector. Persistent worker deficits make automated […]\nThe post Gartner outlines four AI tiers in warehouse automation appeared first on AI News.",
-    "category": "General AI",
-    "date": "2026-09-18T12:49:34.000Z",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/image.png",
-    "source_url": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/"
   }
 ]
